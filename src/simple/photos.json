@@ -1,0 +1,32 @@
+{
+  "abrams": {
+    "src": "/photos/abrams.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:M1A2_Abrams_firing.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/01/M1A2_Abrams_firing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Sgt. Joaquin Vasquez-Duran",
+    "license": "Pubblico dominio — opera del governo federale USA",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov",
+    "attribution": "U.S. Army / Sgt. Joaquin Vasquez-Duran",
+    "identifiedAs": "M1A2 Abrams, configurazione SEP indicata nella didascalia della fonte",
+    "checkedAt": "2026-10-30",
+    "description": "An M1A2 Abrams tank assigned to the 98th Cavalry Regiment,  fires a tank round at a target during a live fire qualifications at the Udairi Multi Purpose Range Complex, Kuwait, August, 2023.The M1A2 System Enhancement Package Version 2 (SEPv2) is an upgraded version of the M1 Abrams main battle tank.It features improved electronics, including updated command, control, and communication systems.(U.S. Army Photo by Sgt. Joaquin Vasquez-Duran).",
+    "changes": "Ridimensionamento e conversione WebP; nessuna alterazione del soggetto",
+    "endorsement": "Nessuna approvazione o affiliazione del Dipartimento della Difesa statunitense.",
+    "thumbnail": "/photos/abrams-thumb.webp"
+  },
+  "f16": {
+    "src": "/photos/f16.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:230328-F-NE299-1001.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d4/230328-F-NE299-1001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "412th Test Wing Public Affairs, United States Air Force (USAF)",
+    "license": "Pubblico dominio — opera del governo federale USA",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov",
+    "attribution": "412th Test Wing Public Affairs / U.S. Air Force",
+    "identifiedAs": "F-16 Block 70 del Bahrain, Edwards AFB, 28 marzo 2023",
+    "checkedAt": "2026-10-30",
+    "description": "The first Royal Bahraini F-16 Block 70 lands at Edwards Air Force Base, California, March 28. The 412th Test Wing's 416th Flight Test Squadron will conduct Flight Tests on the Aircraft before delivery to the Bahrain Defence Force",
+    "changes": "Ridimensionamento e conversione WebP; nessuna alterazione del soggetto",
+    "endorsement": "Nessuna approvazione o affiliazione del Dipartimento della Difesa statunitense.",
+    "thumbnail": "/photos/f16-thumb.webp"
+  }
+}

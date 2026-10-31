@@ -1,0 +1,26 @@
+{
+  "intensities": {
+    "Limitato": 1,
+    "Standard": 3,
+    "Intensivo": 6
+  },
+  "maxOffensiveBonus": 0.25,
+  "minimumFailureChance": 0.08,
+  "maxInterception": 0.65,
+  "defenseCoveragePerSystem": 0.12,
+  "maxCoverage": 0.8,
+  "deploymentCost": 0,
+  "deploymentSeconds": 20,
+  "maxCounterstrikeMoneyLoss": 0,
+  "intensityApprovalCost": {
+    "Limitato": 1,
+    "Standard": 2,
+    "Intensivo": 4
+  },
+  "perWeaponBonus": 0.08,
+  "partialInterceptionDamage": 0.25,
+  "defenseResiliencePerPoint": 0.02,
+  "maxResilience": 0.2,
+  "evasionImpact": 0.5,
+  "aiDefenseScale": 250
+}

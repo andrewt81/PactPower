@@ -1,0 +1,21 @@
+import{useEffect,useRef,useState}from'react';
+import maplibregl,{type Map as MapType,type ExpressionSpecification}from'maplibre-gl';
+import'maplibre-gl/dist/maplibre-gl.css';
+import WorldMapSVG from './WorldMapSVG';
+import type{Country}from'../domain/types';
+import countriesJson from'../data/countries.json';
+export type MapLayer='political'|'economy'|'military';
+const countries=countriesJson as Country[];
+const labelIds=['USA','CAN','BRA','ARG','MEX','GBR','FRA','DEU','ITA','ESP','RUS','CHN','IND','AUS','ZAF','EGY','DZA','SAU','IRN','JPN','IDN','TUR','KAZ','SWE','NOR','NGA','COD','PAK','MNG'];
+export default function WorldMap({selected,player,layer,onSelect,focusToken}:{selected:string;player:string|null;layer:MapLayer;onSelect:(id:string)=>void;focusToken:number}){
+ const el=useRef<HTMLDivElement>(null),map=useRef<MapType|null>(null),cb=useRef(onSelect),[ready,setReady]=useState(false),[error,setError]=useState('');cb.current=onSelect;
+ useEffect(()=>{if(!el.current)return;let m:MapType;try{m=new maplibregl.Map({container:el.current,style:{version:8,sources:{},layers:[{id:'ocean',type:'background',paint:{'background-color':'#111f29'}}]},center:[24,24],zoom:1.5,minZoom:.7,maxZoom:7,attributionControl:{compact:true},renderWorldCopies:false});}catch{setError('La mappa richiede WebGL. Puoi scegliere tutti i paesi dall’elenco in alto.');return}
+ map.current=m;m.addControl(new maplibregl.NavigationControl({showCompass:false}),'bottom-right');m.on('error',e=>{console.error(e.error);setError('Impossibile caricare la mappa. La selezione tramite elenco resta disponibile.')});
+ m.on('load',()=>{m.addSource('world',{type:'geojson',data:'/data/world.geojson',promoteId:'id',attribution:'Made with Natural Earth · Dominio pubblico'});const lines:any[]=[];for(let lon=-180;lon<=180;lon+=20)lines.push({type:'Feature',properties:{},geometry:{type:'LineString',coordinates:[[lon,-80],[lon,80]]}});for(let lat=-80;lat<=80;lat+=20)lines.push({type:'Feature',properties:{},geometry:{type:'LineString',coordinates:[[-180,lat],[180,lat]]}});m.addSource('grid',{type:'geojson',data:{type:'FeatureCollection',features:lines}});m.addLayer({id:'grid',type:'line',source:'grid',paint:{'line-color':'#3b5968','line-opacity':.16,'line-width':.6}});m.addLayer({id:'countries',type:'fill',source:'world',paint:{'fill-color':'#263944','fill-opacity':.96}});m.addLayer({id:'borders',type:'line',source:'world',paint:{'line-color':'#58707b','line-width':.65,'line-opacity':.7}});m.addLayer({id:'selected',type:'line',source:'world',filter:['==','id',selected],paint:{'line-color':'#f3b870','line-width':2}});m.on('click','countries',e=>{const id=e.features?.[0]?.properties?.id;if(id)cb.current(id)});m.on('mouseenter','countries',()=>m.getCanvas().style.cursor='pointer');m.on('mouseleave','countries',()=>m.getCanvas().style.cursor='');for(const c of countries.filter(c=>labelIds.includes(c.id))){const marker=document.createElement('button');marker.className='map-country-label';marker.textContent=c.name;marker.setAttribute('aria-label',`Seleziona ${c.name}`);marker.onclick=()=>cb.current(c.id);new maplibregl.Marker({element:marker,anchor:'center'}).setLngLat(c.center).addTo(m)}setReady(true)});
+ const resize=new ResizeObserver(()=>m.resize());resize.observe(el.current);return()=>{resize.disconnect();m.remove();map.current=null};
+ },[]);
+ useEffect(()=>{const m=map.current;if(!m||!ready)return;const base:ExpressionSpecification=['case',['==',['get','id'],player||'none'],'#478c8a',['>=',['get','relation'],35],'#344f56',['<=',['get','relation'],-5],'#573f49','#293c48'];const color:ExpressionSpecification=layer==='economy'?['interpolate',['linear'],['get','industry'],30,'#24333b',90,'#539d85']:layer==='military'?['interpolate',['linear'],['get','military'],30,'#293744',150,'#986858']:base;m.setPaintProperty('countries','fill-color',color);m.setFilter('selected',['==','id',selected]);},[ready,selected,player,layer]);
+ useEffect(()=>{if(!ready||!focusToken)return;const c=countries.find(c=>c.id===selected);if(c)map.current?.flyTo({center:c.center,zoom:3.4,duration:1000})},[focusToken,ready]);
+ if(error)return <WorldMapSVG selected={selected} player={player} layer={layer} onSelect={onSelect} focusToken={focusToken}/>;
+ return <><div ref={el} className="map-canvas"/>{error&&<div className="map-error" role="alert">{error}</div>}</>
+}

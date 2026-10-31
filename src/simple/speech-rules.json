@@ -1,0 +1,27 @@
+{
+  "cost": 0,
+  "seconds": 25,
+  "cooldown": 240,
+  "promiseSeconds": 600,
+  "repeatWindow": 1200,
+  "maxHistory": 40,
+  "acceptedScore": 65,
+  "partialScore": 40,
+  "accepted": {
+    "tension": -6,
+    "approval": 3,
+    "trust": 2
+  },
+  "partial": {
+    "tension": -2,
+    "approval": 1,
+    "trust": 0
+  },
+  "rejected": {
+    "tension": 0,
+    "approval": 0,
+    "trust": -2
+  },
+  "brokenTrust": -3,
+  "keptTrust": 2
+}

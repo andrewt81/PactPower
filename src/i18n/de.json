@@ -1,0 +1,15 @@
+{
+  "language": "Sprache",
+  "subtitle": "Führe eine Nation. Verändere die Welt.",
+  "world": "Welt wird vorbereitet",
+  "save": "Spiel wird geladen",
+  "server": "Verbindung zum Server",
+  "enter": "Welt betreten",
+  "resume": "Kommando übernehmen",
+  "retry": "Erneut versuchen",
+  "error": "Laden fehlgeschlagen. Prüfe die Verbindung und versuche es erneut.",
+  "tip": "Ein gutes Bündnis kann mehr wert sein als eine große Armee.",
+  "single": "Zurück zum Einzelspieler",
+  "multiplayer": "Mehrspieler",
+  "saveError": "Der Spielstand konnte nicht gelesen werden. Sichere eine Kopie vor der Wiederherstellung; keine Daten wurden gelöscht."
+}

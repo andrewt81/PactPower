@@ -1,0 +1,28 @@
+{
+  "checkedAt": "2026-10-30",
+  "scope": "30 voci fanteria e carri: 28 nuove fotografie più M1A2 Abrams esistente; 1 mancante.",
+  "missing": [
+    {
+      "id": "leclerc",
+      "name": "Leclerc XLR",
+      "reason": "Unica fotografia Commons identificata esclusa: nomina alla cancellazione dal 28 luglio 2026 per sospetto uso di IA. Il modello XLR non viene sostituito con foto di un Leclerc precedente.",
+      "reviewedSources": [
+        "https://commons.wikimedia.org/wiki/File:Leclerc_XLR_exposé_à_l%27Eurosatory_de_2022.jpg",
+        "https://commons.wikimedia.org/wiki/Commons:Deletion_requests/2026/07/28"
+      ],
+      "status": "Foto non disponibile"
+    }
+  ],
+  "rejected": [
+    {
+      "id": "t90",
+      "source": "https://commons.wikimedia.org/wiki/File:The_80th_Air_Assault_Brigade_captured_a_T-90M_Proryv_tank_in_the_Kursk_region.jpg",
+      "reason": "Attribuzione Roman Pilipey e origine di terzi non sufficientemente chiarita; sostituita con foto istituzionale del medesimo T-90M."
+    },
+    {
+      "id": "arx",
+      "source": "https://commons.wikimedia.org/wiki/File:Beretta_ARX-160_-_Beretta_GLX-160_-_ICWS_unit.jpg",
+      "reason": "Immagine prodotto dalla natura fotografica non abbastanza chiara; sostituita con fotografia reale di esercitazione U.S. Army."
+    }
+  ]
+}

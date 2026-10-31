@@ -1,0 +1,15 @@
+{
+  "language": "Language",
+  "subtitle": "Lead a nation. Change the world.",
+  "world": "Preparing the world",
+  "save": "Loading your game",
+  "server": "Connecting to the server",
+  "enter": "Enter the world",
+  "resume": "Resume command",
+  "retry": "Try again",
+  "error": "Loading could not be completed. Check your connection and try again.",
+  "tip": "A strong alliance can be worth more than a large army.",
+  "single": "Back to single player",
+  "multiplayer": "Multiplayer",
+  "saveError": "Your saved game could not be read. Keep a backup before restoring it; no data was deleted."
+}

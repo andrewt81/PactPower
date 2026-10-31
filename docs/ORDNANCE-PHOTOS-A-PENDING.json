@@ -1,0 +1,26 @@
+{
+  "checkedAt": "2026-10-30",
+  "scope": "9 voci aria-aria, aria-superficie e antinave",
+  "photographed": [
+    "w-aim9x",
+    "w-amraam",
+    "w-meteor",
+    "w-maverick",
+    "w-brimstone",
+    "w-harpoon",
+    "w-aargm",
+    "w-exocet"
+  ],
+  "missing": [
+    {
+      "id": "w-rbs15",
+      "name": "RBS15 Mk2",
+      "reason": "Nessuna fotografia verificata del missile intero nella variante Mk2: individuato solo contenitore di lancio etichettato MkII. Esclusi modelli e foto Mk3 o di variante incerta."
+    }
+  ],
+  "notes": [
+    "Fotografie di esemplari inerti/espositivi indicate esplicitamente nei metadati; nessuna pretesa che siano munizioni operative.",
+    "Soggetti interi conservati; alcuni sfondi museali o contestuali restano visibili nella fonte. Nessun watermark o firma rimosso.",
+    "Scartati il mockup AGM-88E e la prima fotografia Meteor/Brimstone con soggetto tagliato."
+  ]
+}

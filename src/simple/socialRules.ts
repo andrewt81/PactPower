@@ -1,0 +1,7 @@
+export const SOCIAL_RULES={pulse:5,thresholds:[25,45,65,85],stages:['Situazione tranquilla','Malcontento','Manifestazioni pacifiche','Scioperi e interruzioni','Disordini'],disruption:[0,.03,.08,.18,.3],investmentSlowdown:[0,0,.08,.18,.3],warFatigueGain:1.6,deploymentFatigueGain:.9,withdrawalRelief:2.5,withdrawalTensionRelief:.7,withdrawalBenefitSeconds:120,warFatigueDecay:2,warStartFatigue:6,warTension:.9,fatigueTension:.035,casualtyTension:.05,highTaxTension:2,neglectTension:.8,lowConsentTension:.4,peaceRelief:1.1,lowTaxRelief:1.4,servicesRelief:.8,dialogueRelief:4,dialogueCost:0,dialogueSeconds:25,dialogueBenefitSeconds:120,protectionCost:0,protectionSeconds:20,protectionBenefitSeconds:120,coercionTension:12,coercionTrustLoss:12,coercionApprovalLoss:5,policeRelief:.12,casualtyDecay:1.5,lossStressFactor:.6,disorderDelay:180,disorderSustain:120,severeFatigue:65,severeCasualties:35,warningDistance:6,protestApprovalLoss:.6,warningCooldown:120};
+export const POLICE_LEVELS=[
+{level:1,name:'Base',cost:0,seconds:0,maintenance:0,coverage:25,preparedness:20,emergency:25,protection:.1},
+{level:2,name:'Organizzata',cost:160,seconds:30,maintenance:0,coverage:50,preparedness:45,emergency:50,protection:.25},
+{level:3,name:'Avanzata',cost:280,seconds:45,maintenance:0,coverage:75,preparedness:70,emergency:75,protection:.4},
+{level:4,name:'Specializzata',cost:420,seconds:60,maintenance:0,coverage:90,preparedness:90,emergency:90,protection:.55}
+];

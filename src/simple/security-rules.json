@@ -1,0 +1,175 @@
+{
+  "initialGrace": 600,
+  "checkEvery": 240,
+  "cooldown": 600,
+  "warningSeconds": 40,
+  "incidentChance": 0.4,
+  "foreignChance": 0.35,
+  "duration": 300,
+  "maxIncomeLoss": 0.18,
+  "maxSlowdown": 0.2,
+  "recoverySeconds": 45,
+  "maxTeams": 6,
+  "investments": {
+    "intelligence": {
+      "label": "Intelligence interna",
+      "cost": 180,
+      "maintenance": 0,
+      "seconds": 50,
+      "benefit": "Più avvisi e migliori indagini; riduce la probabilità di crisi, senza azzerarla."
+    },
+    "public": {
+      "label": "Sicurezza pubblica",
+      "cost": 200,
+      "maintenance": 0,
+      "seconds": 55,
+      "benefit": "Riduce danni e interruzioni dei servizi essenziali."
+    },
+    "presidential": {
+      "label": "Protezione presidenziale",
+      "cost": 160,
+      "maintenance": 0,
+      "seconds": 45,
+      "benefit": "Riduce il rischio delle visite; non garantisce accordi."
+    }
+  },
+  "responses": {
+    "investigate": {
+      "label": "Avvia indagini",
+      "cost": 0,
+      "seconds": 40,
+      "benefit": "Produce un rapporto datato; può restare incerto."
+    },
+    "relief": {
+      "label": "Finanzia i soccorsi",
+      "cost": 0,
+      "seconds": 30,
+      "benefit": "Riduce gradualmente tensione e impatto della crisi."
+    },
+    "repair": {
+      "label": "Ripara i danni",
+      "cost": 0,
+      "seconds": 60,
+      "benefit": "Riduce la durata residua e le interruzioni."
+    },
+    "reassure": {
+      "label": "Rassicura la popolazione",
+      "cost": 0,
+      "seconds": 25,
+      "benefit": "Piccolo recupero di fiducia; non cancella i danni."
+    }
+  },
+  "team": {
+    "cost": 240,
+    "maintenance": 0,
+    "prepare": 45,
+    "upgradeCost": 180,
+    "upgradeSeconds": 60,
+    "maxLevel": 3,
+    "stats": {
+      "preparation": 45,
+      "discretion": 40,
+      "rescue": 55
+    },
+    "gainPerLevel": 12
+  },
+  "missions": {
+    "president": {
+      "label": "Protezione del presidente",
+      "cost": 0,
+      "seconds": 70,
+      "risk": 0.2,
+      "stat": "preparation",
+      "objective": "Accompagna una visita già in corso; riduce il rischio per 180 secondi."
+    },
+    "evacuate": {
+      "label": "Evacuazione cittadini",
+      "cost": 0,
+      "seconds": 80,
+      "risk": 0.3,
+      "stat": "rescue",
+      "objective": "Assistenza ai cittadini nel paese colpito; nessuna conquista."
+    },
+    "hostages": {
+      "label": "Liberazione ostaggi",
+      "cost": 0,
+      "seconds": 90,
+      "risk": 0.4,
+      "stat": "rescue",
+      "objective": "Risoluzione automatica di una crisi con ostaggi, senza dettagli operativi."
+    },
+    "investigation": {
+      "label": "Supporto alle indagini",
+      "cost": 0,
+      "seconds": 60,
+      "risk": 0.15,
+      "stat": "discretion",
+      "objective": "Migliora la qualità del rapporto sulla crisi selezionata."
+    },
+    "infrastructure": {
+      "label": "Protezione infrastrutture",
+      "cost": 0,
+      "seconds": 70,
+      "risk": 0.2,
+      "stat": "preparation",
+      "objective": "Riduce temporaneamente i danni nel territorio controllato per 180 secondi."
+    },
+    "recon": {
+      "label": "Ricognizione in territorio ostile",
+      "cost": 0,
+      "seconds": 75,
+      "risk": 0.35,
+      "stat": "discretion",
+      "objective": "Stima le forze di un paese con cui sei in guerra."
+    }
+  },
+  "investmentMaxLevel": 3,
+  "effects": {
+    "damageIncomeFactor": 0.06,
+    "damageSlowdownFactor": 0.06,
+    "lastRecoverySeconds": 60,
+    "infrastructureActiveMultiplier": 0.75,
+    "infrastructureNewMultiplier": 0.65,
+    "intelligencePreventionPerLevel": 0.08,
+    "detectionBase": 0.65,
+    "detectionPerLevel": 0.08,
+    "publicDamageReductionPerLevel": 0.15,
+    "approvalDamageFactor": 2,
+    "tensionDamageFactor": 3,
+    "investigationLevelBonus": 0.1,
+    "investigationTeamBonus": 0.3,
+    "confirmedThreshold": 0.85,
+    "suspectThreshold": 0.5,
+    "repairDamageMultiplier": 0.55,
+    "repairSecondsReduction": 100,
+    "repairMinimumRemaining": 20,
+    "reliefDamageMultiplier": 0.8,
+    "reliefTensionReduction": 5,
+    "reliefApprovalGain": 2,
+    "reassureApprovalGain": 2,
+    "reassureTensionReduction": 2,
+    "hostageChance": 0.3
+  },
+  "missionRules": {
+    "chanceBase": 0.4,
+    "statDivisor": 200,
+    "riskWeight": 0.3,
+    "minimumChance": 0.25,
+    "maximumChance": 0.85,
+    "upkeepGrowth": 0.3,
+    "experienceBonus": 2,
+    "experienceBonusCap": 10,
+    "unauthorizedRelationPenalty": 12,
+    "unauthorizedApprovalPenalty": 2,
+    "foreignRescueRelationGain": 4,
+    "rescueDamageMultiplier": 0.8,
+    "rescueApprovalGain": 3,
+    "rescueTensionReduction": 3,
+    "effectSeconds": 180,
+    "failedRecoveryMultiplier": 2,
+    "visitRiskFloor": 0.02,
+    "visitRiskBase": 0.15,
+    "visitLevelReduction": 0.025,
+    "visitEscortReduction": 0.04
+  }
+}

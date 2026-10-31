@@ -1,0 +1,7 @@
+import{randomBytes}from'node:crypto';import{existsSync,writeFileSync,chmodSync}from'node:fs';
+const production=process.argv.includes('--production');
+if(existsSync('.env')){console.log('Configurazione .env esistente conservata.');process.exit(0)}
+if(production&&(!process.env.PUBLIC_ORIGIN?.startsWith('https://')||!process.env.SMTP_HOST||!process.env.MAIL_FROM))throw Error('Produzione: impostare PUBLIC_ORIGIN HTTPS, SMTP_HOST e MAIL_FROM. Nessuna configurazione scritta.');
+const values={POSTGRES_PASSWORD:randomBytes(32).toString('hex'),PUBLIC_ORIGIN:process.env.PUBLIC_ORIGIN||'http://localhost:3000',NODE_ENV:production?'production':'development',PORT:'3000',SMTP_HOST:process.env.SMTP_HOST||(production?'':'mailpit'),SMTP_PORT:process.env.SMTP_PORT||(production?'587':'1025'),SMTP_TLS:process.env.SMTP_TLS||'false',MAIL_FROM:process.env.MAIL_FROM||'World Dominion <noreply@example.test>',SMTP_USER:process.env.SMTP_USER||'',SMTP_PASSWORD:process.env.SMTP_PASSWORD||''};
+for(const value of Object.values(values))if(/[\r\n]/.test(value))throw Error('Valore di configurazione non valido.');
+writeFileSync('.env',Object.entries(values).map(([k,v])=>`${k}='${v.replaceAll("'","\\'")}'`).join('\n')+'\n',{mode:0o600,flag:'wx'});chmodSync('.env',0o600);console.log(production?'Configurazione produzione creata; nessun segreto visualizzato.':'Configurazione sviluppo creata. SMTP usa esclusivamente Mailpit, non invia email su Internet.');

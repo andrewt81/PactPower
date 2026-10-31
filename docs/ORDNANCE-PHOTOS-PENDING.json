@@ -1,0 +1,17 @@
+{
+  "checkedAt": "2026-10-30",
+  "catalogueCount": 18,
+  "photographed": 17,
+  "missing": [
+    {
+      "id": "w-rbs15",
+      "name": "RBS15 Mk II",
+      "reason": "Nessuna fotografia verificata del missile intero nella variante Mk II; solo contenitore identificato. Nessuna foto Mk3 sostitutiva."
+    }
+  ],
+  "notes": [
+    "Le fotografie di esemplari inerti o espositivi sono identificate nei metadati.",
+    "Alcune fotografie autentiche includono contesto espositivo, persone o vettori; gli elementi non sono stati rimossi né generati. Questo limite di inquadratura resta da migliorare.",
+    "Nessun watermark o firma rimosso. I dati identificativi e le compatibilità di piattaforma non contengono valori operativi reali."
+  ]
+}

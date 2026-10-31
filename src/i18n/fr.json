@@ -1,0 +1,15 @@
+{
+  "language": "Langue",
+  "subtitle": "Dirigez une nation. Changez le monde.",
+  "world": "Préparation du monde",
+  "save": "Chargement de la partie",
+  "server": "Connexion au serveur",
+  "enter": "Entrer dans le monde",
+  "resume": "Reprendre le commandement",
+  "retry": "Réessayer",
+  "error": "Le chargement a échoué. Vérifiez votre connexion et réessayez.",
+  "tip": "Une bonne alliance peut valoir plus qu’une grande armée.",
+  "single": "Retour en solo",
+  "multiplayer": "Multijoueur",
+  "saveError": "La sauvegarde est illisible. Conservez une copie avant restauration ; aucune donnée n’a été supprimée."
+}

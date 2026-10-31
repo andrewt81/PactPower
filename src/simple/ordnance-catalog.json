@@ -1,0 +1,554 @@
+[
+  {
+    "id": "w-gbu31",
+    "name": "GBU-31 JDAM",
+    "group": "bomb",
+    "role": "Bomba guidata convenzionale",
+    "source": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104572/joint-direct-attack-munition-gbu-313238/",
+    "checkedAt": "2026-10-30",
+    "compatibleModelIds": [
+      "b52",
+      "b2",
+      "b1"
+    ],
+    "compatibilitySources": [
+      "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104572/joint-direct-attack-munition-gbu-313238/",
+      "https://www.afgsc.af.mil/News/Features/Display/Article/455784/b-2-brings-down-the-house-at-combat-hammer/",
+      "https://www.afgsc.af.mil/About/Fact-Sheets/Article/630718/b-1b-lancer/",
+      "https://www.barksdale.af.mil/News/Photos/igphoto/2000263157/"
+    ],
+    "notes": "Famiglia GBU-31: non viene equiparata a GBU-32 o GBU-38.",
+    "origin": "Stati Uniti",
+    "manufacturer": "Boeing",
+    "scope": "Identificazione, ruolo e compatibilità di piattaforma a livello pubblico. Nessun parametro operativo reale. Numeri e disponibilità sono esclusivamente regole di gioco.",
+    "consumable": true,
+    "game": {
+      "price": 45,
+      "seconds": 35,
+      "power": 50,
+      "precision": 55,
+      "evasion": 25,
+      "research": 1,
+      "maintenance": 0,
+      "fictional": true
+    }
+  },
+  {
+    "id": "w-gbu38",
+    "name": "GBU-38 JDAM",
+    "group": "bomb",
+    "role": "Bomba guidata convenzionale",
+    "source": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104572/joint-direct-attack-munition-gbu-313238/",
+    "checkedAt": "2026-10-30",
+    "compatibleModelIds": [
+      "b52",
+      "b2",
+      "b1"
+    ],
+    "compatibilitySources": [
+      "https://www.afmc.af.mil/News/Article-Display/Article/3160815/aftc-organizations-collaborate-to-expand-b-52-weapon-capabilities/",
+      "https://boeing.mediaroom.com/2003-03-31-Boeing-Begins-Flight-Testing-New-JDAM-on-B-2",
+      "https://www.afgsc.af.mil/About/Fact-Sheets/Article/630718/b-1b-lancer/",
+      "https://www.af.mil/News/Article-Display/Article/138513/b-2-drops-80-test-jdams/"
+    ],
+    "notes": "La compatibilità con entrambi i bombardieri strategici è documentata separatamente.",
+    "origin": "Stati Uniti",
+    "manufacturer": "Boeing",
+    "scope": "Identificazione, ruolo e compatibilità di piattaforma a livello pubblico. Nessun parametro operativo reale. Numeri e disponibilità sono esclusivamente regole di gioco.",
+    "consumable": true,
+    "game": {
+      "price": 51,
+      "seconds": 45,
+      "power": 53,
+      "precision": 58,
+      "evasion": 28,
+      "research": 1,
+      "maintenance": 0,
+      "fictional": true
+    }
+  },
+  {
+    "id": "w-mk82",
+    "name": "Mk 82",
+    "group": "bomb",
+    "role": "Bomba convenzionale non guidata",
+    "source": "https://odin.t2com.army.mil/WEG/Asset/6959d6621a86f37c8ac234d7fc99816c",
+    "checkedAt": "2026-10-30",
+    "compatibleModelIds": [
+      "b1",
+      "b2",
+      "a10"
+    ],
+    "compatibilitySources": [
+      "https://www.afgsc.af.mil/About/Fact-Sheets/Article/630718/b-1b-lancer/",
+      "https://www.dvidshub.net/image/9213726/us-air-force-b-2-spirit-bomber-flies-after-dropping-mk-82-500-pound-bombs",
+      "https://www.whiteman.af.mil/About/Fact-Sheets/Display/Article/886028/a-10-thunderbolt-ii/"
+    ],
+    "notes": "Mk 82 non è la stessa configurazione della GBU-38, che aggiunge una guida.",
+    "origin": "Stati Uniti",
+    "manufacturer": "Produttori diversi secondo contratto",
+    "scope": "Identificazione, ruolo e compatibilità di piattaforma a livello pubblico. Nessun parametro operativo reale. Numeri e disponibilità sono esclusivamente regole di gioco.",
+    "consumable": true,
+    "game": {
+      "price": 25,
+      "seconds": 55,
+      "power": 56,
+      "precision": 30,
+      "evasion": 15,
+      "research": 0,
+      "maintenance": 0,
+      "fictional": true
+    }
+  },
+  {
+    "id": "w-aim9x",
+    "name": "AIM-9X Sidewinder",
+    "group": "airAir",
+    "role": "Missile aria-aria",
+    "source": "https://www.navair.navy.mil/product/AIM-9X-Sidewinder",
+    "checkedAt": "2026-10-30",
+    "compatibleModelIds": [
+      "superhornet",
+      "growler",
+      "f22",
+      "f35"
+    ],
+    "compatibilitySources": [
+      "https://www.rtx.com/raytheon/what-we-do/sea/aim-9x-sidewinder-missile"
+    ],
+    "notes": "AIM-9X distinto dalle altre versioni Sidewinder.",
+    "origin": "Stati Uniti",
+    "manufacturer": "Raytheon / RTX",
+    "scope": "Identificazione, ruolo e compatibilità di piattaforma a livello pubblico. Nessun parametro operativo reale. Numeri e disponibilità sono esclusivamente regole di gioco.",
+    "consumable": true,
+    "game": {
+      "price": 90,
+      "seconds": 45,
+      "power": 60,
+      "precision": 75,
+      "evasion": 60,
+      "research": 2,
+      "maintenance": 0,
+      "fictional": true
+    }
+  },
+  {
+    "id": "w-amraam",
+    "name": "AIM-120 AMRAAM",
+    "group": "airAir",
+    "role": "Missile aria-aria",
+    "source": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104576/aim-120-amraam/",
+    "checkedAt": "2026-10-30",
+    "compatibleModelIds": [
+      "superhornet",
+      "f22",
+      "f35"
+    ],
+    "compatibilitySources": [
+      "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104576/aim-120-amraam/",
+      "https://www.rtx.com/raytheon/what-we-do/sea/aim-9x-sidewinder-missile"
+    ],
+    "notes": "Famiglia AMRAAM; non presentata come variante C7 o D specifica.",
+    "origin": "Stati Uniti",
+    "manufacturer": "Raytheon / RTX",
+    "scope": "Identificazione, ruolo e compatibilità di piattaforma a livello pubblico. Nessun parametro operativo reale. Numeri e disponibilità sono esclusivamente regole di gioco.",
+    "consumable": true,
+    "game": {
+      "price": 103,
+      "seconds": 55,
+      "power": 63,
+      "precision": 78,
+      "evasion": 63,
+      "research": 2,
+      "maintenance": 0,
+      "fictional": true
+    }
+  },
+  {
+    "id": "w-meteor",
+    "name": "Meteor",
+    "group": "airAir",
+    "role": "Missile aria-aria",
+    "source": "https://www.mbda-systems.com/products/air-dominance/meteor",
+    "checkedAt": "2026-10-30",
+    "compatibleModelIds": [
+      "typhoon",
+      "rafale",
+      "gripen"
+    ],
+    "compatibilitySources": [
+      "https://www.mbda-systems.com/meteor-missile-and-f-35a-one-step-closer-operational-capability",
+      "https://www.saab.com/products/meteor",
+      "https://www.saab.com/products/gripen-e-series",
+      "https://www.saab.com/newsroom/press-releases/2022/successful-meteor-live-firing-with-gripen-e"
+    ],
+    "notes": "Non abilitato sul F-35A: la fonte distingue integrazione in corso da servizio già attivo.",
+    "origin": "Europa",
+    "manufacturer": "MBDA",
+    "scope": "Identificazione, ruolo e compatibilità di piattaforma a livello pubblico. Nessun parametro operativo reale. Numeri e disponibilità sono esclusivamente regole di gioco.",
+    "consumable": true,
+    "game": {
+      "price": 116,
+      "seconds": 65,
+      "power": 66,
+      "precision": 81,
+      "evasion": 66,
+      "research": 2,
+      "maintenance": 0,
+      "fictional": true
+    }
+  },
+  {
+    "id": "w-maverick",
+    "name": "AGM-65 Maverick",
+    "group": "airSurface",
+    "role": "Missile aria-superficie",
+    "source": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104577/agm-65-maverick/",
+    "checkedAt": "2026-10-30",
+    "compatibleModelIds": [
+      "a10",
+      "superhornet"
+    ],
+    "compatibilitySources": [
+      "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104577/agm-65-maverick/",
+      "https://www.navy.mil/Resources/Fact-Files/Display-FactFiles/Article/2383479/fa-18a-d-hornet-and-fa-18ef-super-hornet-strike-fighter/"
+    ],
+    "notes": "Famiglia AGM-65. Il F-16 Block 70 del catalogo non è abilitato mediante deduzione da vecchie versioni F-16.",
+    "origin": "Stati Uniti",
+    "manufacturer": "Hughes / Raytheon",
+    "scope": "Identificazione, ruolo e compatibilità di piattaforma a livello pubblico. Nessun parametro operativo reale. Numeri e disponibilità sono esclusivamente regole di gioco.",
+    "consumable": true,
+    "game": {
+      "price": 140,
+      "seconds": 55,
+      "power": 70,
+      "precision": 80,
+      "evasion": 65,
+      "research": 3,
+      "maintenance": 0,
+      "fictional": true
+    }
+  },
+  {
+    "id": "w-aargm",
+    "name": "AGM-88E AARGM",
+    "group": "airSurface",
+    "role": "Missile aria-superficie",
+    "source": "https://www.navair.navy.mil/product/AARGM",
+    "checkedAt": "2026-10-30",
+    "compatibleModelIds": [
+      "superhornet",
+      "growler"
+    ],
+    "compatibilitySources": [
+      "https://www.northropgrumman.com/what-we-do/advanced-weapons/benefits-of-international-cooperative-programs-for-weapons"
+    ],
+    "notes": "AGM-88E non è AGM-88G AARGM-ER; non abilitato automaticamente su F-35.",
+    "origin": "Stati Uniti / Italia",
+    "manufacturer": "Northrop Grumman",
+    "scope": "Identificazione, ruolo e compatibilità di piattaforma a livello pubblico. Nessun parametro operativo reale. Numeri e disponibilità sono esclusivamente regole di gioco.",
+    "consumable": true,
+    "game": {
+      "price": 161,
+      "seconds": 65,
+      "power": 73,
+      "precision": 83,
+      "evasion": 68,
+      "research": 3,
+      "maintenance": 0,
+      "fictional": true
+    }
+  },
+  {
+    "id": "w-brimstone",
+    "name": "Brimstone",
+    "group": "airSurface",
+    "role": "Missile aria-superficie",
+    "source": "https://www.mbda-systems.com/products/tactical-strike/brimstone",
+    "checkedAt": "2026-10-30",
+    "compatibleModelIds": [
+      "typhoon"
+    ],
+    "compatibilitySources": [
+      "https://www.raf.mod.uk/aircraft/current-aircraft/typhoon-fgr41/"
+    ],
+    "notes": "Famiglia Brimstone a lancio aereo; non Surface Launched Brimstone.",
+    "origin": "Regno Unito",
+    "manufacturer": "MBDA",
+    "scope": "Identificazione, ruolo e compatibilità di piattaforma a livello pubblico. Nessun parametro operativo reale. Numeri e disponibilità sono esclusivamente regole di gioco.",
+    "consumable": true,
+    "game": {
+      "price": 182,
+      "seconds": 75,
+      "power": 76,
+      "precision": 86,
+      "evasion": 71,
+      "research": 3,
+      "maintenance": 0,
+      "fictional": true
+    }
+  },
+  {
+    "id": "w-harpoon",
+    "name": "Harpoon A/RGM-84",
+    "group": "antiShip",
+    "role": "Missile antinave",
+    "source": "https://www.navair.navy.mil/harpoon",
+    "checkedAt": "2026-10-30",
+    "compatibleModelIds": [
+      "burke",
+      "superhornet"
+    ],
+    "compatibilitySources": [
+      "https://www.surflant.usff.navy.mil/Organization/Operational-Forces/Destroyers/USS-Arleigh-Burke-DDG-51/About-Us/Characteristics/",
+      "https://www.navy.mil/Resources/Fact-Files/Display-FactFiles/Article/2383479/fa-18a-d-hornet-and-fa-18ef-super-hornet-strike-fighter/"
+    ],
+    "notes": "Famiglia: versione navale RGM-84 e versione aerea AGM-84 assegnate dal profilo del vettore. La fonte navale riguarda esemplari predisposti, non ogni Flight Burke.",
+    "origin": "Stati Uniti",
+    "manufacturer": "Boeing / McDonnell Douglas",
+    "scope": "Identificazione, ruolo e compatibilità di piattaforma a livello pubblico. Nessun parametro operativo reale. Numeri e disponibilità sono esclusivamente regole di gioco.",
+    "consumable": true,
+    "game": {
+      "price": 220,
+      "seconds": 65,
+      "power": 80,
+      "precision": 80,
+      "evasion": 70,
+      "research": 3,
+      "maintenance": 0,
+      "fictional": true
+    }
+  },
+  {
+    "id": "w-exocet",
+    "name": "Exocet AM39",
+    "group": "antiShip",
+    "role": "Missile antinave a lancio aereo",
+    "source": "https://www.mbda-systems.com/products/deep-strike/exocet-family/exocet-am39",
+    "checkedAt": "2026-10-30",
+    "compatibleModelIds": [
+      "rafale"
+    ],
+    "compatibilitySources": [
+      "https://www.dassault-aviation.com/en/defense/rafale/adapt-and-deliver/",
+      "https://www.mbda-systems.com/mbda-arm-hellenic-air-forces-new-rafale-fighter-jets"
+    ],
+    "notes": "AM39 non è MM40 navale. Compatibilità limitata al profilo Rafale del gioco.",
+    "origin": "Francia",
+    "manufacturer": "MBDA",
+    "scope": "Identificazione, ruolo e compatibilità di piattaforma a livello pubblico. Nessun parametro operativo reale. Numeri e disponibilità sono esclusivamente regole di gioco.",
+    "consumable": true,
+    "game": {
+      "price": 253,
+      "seconds": 75,
+      "power": 83,
+      "precision": 83,
+      "evasion": 73,
+      "research": 3,
+      "maintenance": 0,
+      "fictional": true
+    }
+  },
+  {
+    "id": "w-rbs15",
+    "name": "RBS15 Mk II",
+    "group": "antiShip",
+    "role": "Missile antinave",
+    "source": "https://www.saab.com/products/the-rbs15-family",
+    "checkedAt": "2026-10-30",
+    "compatibleModelIds": [
+      "visby"
+    ],
+    "compatibilitySources": [
+      "https://www.fmv.se/projekt/visby/",
+      "https://www.fmv.se/aktuellt--press/aktuella-handelser/20-ar-med-smygteknik/"
+    ],
+    "notes": "FMV specifica Robot 15 Mk II per Visby. Non sostituire con Mk3 o Gungnir.",
+    "origin": "Svezia",
+    "manufacturer": "Saab",
+    "scope": "Identificazione, ruolo e compatibilità di piattaforma a livello pubblico. Nessun parametro operativo reale. Numeri e disponibilità sono esclusivamente regole di gioco.",
+    "consumable": true,
+    "game": {
+      "price": 286,
+      "seconds": 85,
+      "power": 86,
+      "precision": 86,
+      "evasion": 76,
+      "research": 3,
+      "maintenance": 0,
+      "fictional": true
+    }
+  },
+  {
+    "id": "w-tomahawk",
+    "name": "Tomahawk Block IV",
+    "group": "cruise",
+    "role": "Missile da crociera convenzionale",
+    "source": "https://www.navair.navy.mil/product/Tomahawk",
+    "checkedAt": "2026-10-30",
+    "compatibleModelIds": [
+      "burke"
+    ],
+    "compatibilitySources": [
+      "https://www.navair.navy.mil/sites/g/files/jejdrs536/files/document/%5Bfilename%5D/PEOPORTFOLIO.pdf"
+    ],
+    "notes": "Versione convenzionale Block IV. Altri vettori possibili non abilitati finché non verificati nel profilo del catalogo.",
+    "origin": "Stati Uniti",
+    "manufacturer": "Raytheon / RTX",
+    "scope": "Identificazione, ruolo e compatibilità di piattaforma a livello pubblico. Nessun parametro operativo reale. Numeri e disponibilità sono esclusivamente regole di gioco.",
+    "consumable": true,
+    "game": {
+      "price": 420,
+      "seconds": 90,
+      "power": 90,
+      "precision": 85,
+      "evasion": 80,
+      "research": 4,
+      "maintenance": 0,
+      "fictional": true
+    }
+  },
+  {
+    "id": "w-scalp",
+    "name": "SCALP EG",
+    "group": "cruise",
+    "role": "Missile da crociera convenzionale",
+    "source": "https://www.mbda-systems.com/products/deep-strike/storm-shadow-scalp",
+    "checkedAt": "2026-10-30",
+    "compatibleModelIds": [
+      "rafale"
+    ],
+    "compatibilitySources": [
+      "https://www.dassault-aviation.com/en/defense/rafale/adapt-and-deliver/"
+    ],
+    "notes": "Profilo SCALP EG per Rafale. Non si assegna automaticamente la variante francese al Typhoon che impiega Storm Shadow.",
+    "origin": "Francia / Regno Unito",
+    "manufacturer": "MBDA",
+    "scope": "Identificazione, ruolo e compatibilità di piattaforma a livello pubblico. Nessun parametro operativo reale. Numeri e disponibilità sono esclusivamente regole di gioco.",
+    "consumable": true,
+    "game": {
+      "price": 483,
+      "seconds": 100,
+      "power": 93,
+      "precision": 88,
+      "evasion": 83,
+      "research": 4,
+      "maintenance": 0,
+      "fictional": true
+    }
+  },
+  {
+    "id": "w-jassm",
+    "name": "AGM-158A JASSM",
+    "group": "cruise",
+    "role": "Missile da crociera convenzionale",
+    "source": "https://www.saffm.hq.af.mil/Portals/84/documents/FY26/FY26%20Air%20Force%20Missile%20Procurement.pdf",
+    "checkedAt": "2026-10-30",
+    "compatibleModelIds": [
+      "b1",
+      "b2",
+      "b52"
+    ],
+    "compatibilitySources": [
+      "https://www.saffm.hq.af.mil/Portals/84/documents/FY26/FY26%20Air%20Force%20Missile%20Procurement.pdf",
+      "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2026/FY2026_Weapons.pdf",
+      "https://afarmamentmuseum.com/artifact/agm158/"
+    ],
+    "notes": "JASSM base AGM-158A, distinto da AGM-158B JASSM-ER. Il documento ufficiale limita i F-16 alle versioni Block 40-52, quindi non si abilita il Block 70. Il documento USAF FY26 specifica JASSM-BL/AGM-158A completato sul B-2: non dedotto da JASSM-ER.",
+    "origin": "Stati Uniti",
+    "manufacturer": "Lockheed Martin",
+    "scope": "Identificazione, ruolo e compatibilità di piattaforma a livello pubblico. Nessun parametro operativo reale. Numeri e disponibilità sono esclusivamente regole di gioco.",
+    "consumable": true,
+    "game": {
+      "price": 546,
+      "seconds": 110,
+      "power": 95,
+      "precision": 91,
+      "evasion": 86,
+      "research": 4,
+      "maintenance": 0,
+      "fictional": true
+    }
+  },
+  {
+    "id": "w-patriot",
+    "name": "Patriot (configurazione PAC-3)",
+    "group": "defense",
+    "role": "Sistema antiaereo e antimissile",
+    "source": "https://www.mda.mil/system/pac_3.html",
+    "checkedAt": "2026-10-30",
+    "compatibleModelIds": [],
+    "compatibilitySources": [
+      "https://www.mda.mil/system/pac_3.html"
+    ],
+    "notes": "Sistema terrestre autonomo: nessun vettore aereo o navale. La configurazione PAC-3 non coincide con una variante PAC-3 MSE/ACE specifica.",
+    "origin": "Stati Uniti",
+    "manufacturer": "Raytheon / Lockheed Martin",
+    "scope": "Identificazione, ruolo e compatibilità di piattaforma a livello pubblico. Nessun parametro operativo reale. Numeri e disponibilità sono esclusivamente regole di gioco.",
+    "consumable": false,
+    "game": {
+      "price": 1000,
+      "seconds": 120,
+      "power": 65,
+      "precision": 65,
+      "evasion": 20,
+      "research": 3,
+      "maintenance": 0,
+      "fictional": true
+    }
+  },
+  {
+    "id": "w-sampt",
+    "name": "SAMP/T",
+    "group": "defense",
+    "role": "Sistema antiaereo e antimissile",
+    "source": "https://www.esercito.difesa.it/en/equipment/artillery/antiaircraft-artillery/samp-t/75953.html",
+    "checkedAt": "2026-10-30",
+    "compatibleModelIds": [],
+    "compatibilitySources": [
+      "https://occar.int/our-work/programmes/fsafpaams-the-next-generation-of-surfacetoair-antimissile-systems/sampt-fact-sheet"
+    ],
+    "notes": "Sistema terrestre autonomo. Voce SAMP/T originale, non SAMP/T NG.",
+    "origin": "Francia / Italia",
+    "manufacturer": "EUROSAM (MBDA / Thales)",
+    "scope": "Identificazione, ruolo e compatibilità di piattaforma a livello pubblico. Nessun parametro operativo reale. Numeri e disponibilità sono esclusivamente regole di gioco.",
+    "consumable": false,
+    "game": {
+      "price": 1150,
+      "seconds": 130,
+      "power": 68,
+      "precision": 68,
+      "evasion": 23,
+      "research": 3,
+      "maintenance": 0,
+      "fictional": true
+    }
+  },
+  {
+    "id": "w-nasams",
+    "name": "NASAMS",
+    "group": "defense",
+    "role": "Sistema di difesa antiaerea",
+    "source": "https://www.kongsberg.com/what-we-do/defence-and-security/integrated-air-and-missile-defence/nasams-air-defence-system/",
+    "checkedAt": "2026-10-30",
+    "compatibleModelIds": [],
+    "compatibilitySources": [
+      "https://www.kongsberg.com/what-we-do/defence-and-security/integrated-air-and-missile-defence/nasams-air-defence-system/"
+    ],
+    "notes": "Sistema terrestre autonomo. Non gli viene attribuita una capacità generale contro missili balistici; la copertura/intercettazione del gioco è astratta.",
+    "origin": "Norvegia / Stati Uniti",
+    "manufacturer": "Kongsberg / Raytheon",
+    "scope": "Identificazione, ruolo e compatibilità di piattaforma a livello pubblico. Nessun parametro operativo reale. Numeri e disponibilità sono esclusivamente regole di gioco.",
+    "consumable": false,
+    "game": {
+      "price": 1300,
+      "seconds": 140,
+      "power": 71,
+      "precision": 71,
+      "evasion": 26,
+      "research": 3,
+      "maintenance": 0,
+      "fictional": true
+    }
+  }
+]

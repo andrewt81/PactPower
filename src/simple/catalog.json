@@ -1,0 +1,3217 @@
+[
+  {
+    "id": "arx",
+    "group": "infantry",
+    "identity": {
+      "name": "Beretta ARX160",
+      "origin": "Italia",
+      "manufacturer": "Beretta",
+      "role": "Fucile d’assalto",
+      "description": "Fucile d’assalto. Capacità rappresentate in forma astratta.",
+      "variant": "16 pollici",
+      "navalClass": null
+    },
+    "game": {
+      "price": 25,
+      "power": 8,
+      "maintenance": 0.06,
+      "deliverySeconds": 15,
+      "effectiveness": 55,
+      "resistance": 35,
+      "mobility": 65,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.berettadefense.com/products/arx160-16-bdt/",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/ground-arx.webp",
+      "thumbnail": "/photos/ground-arx-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Cross_Training_(7054515).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/02/Cross_Training_%287054515%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "U.S. Army photo by Staff Sgt.  John Yountz",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov",
+      "attribution": "Staff Sgt. John Yountz / U.S. Army",
+      "identifiedAs": "Beretta ARX160 — didascalia U.S. Army, esercitazione Steel Blizzard, 15 febbraio 2022",
+      "checkedAt": "2026-10-30",
+      "description": "A U.S. Army paratrooper assigned to 2nd Battalion, 503rd Parachute Infantry Regiment engages targets with a Beretta ARX160 for a weapon familiarization during an integrated marksmanship range alongside Italian soldiers from the 3rd Alpini Regiment. This training is part of Exercise Steel Blizzard at Pian dell’Alpe in Usseaux, Italy on Feb. 15, 2022. \n Exercise Steel Blizzard is an Italian Army-hosted multinational mountain and arctic warfare training exercise. Three reconnaissance platoons from the 173rd Airborne Brigade take part in a three-phase training regimen with the 3rd Alpini Regiment to expand force capabilities by learning how to shoot, move, and operate in mountainous and arctic conditions. Over the course of the training, these paratroopers learn different methods of skiing and traversing mountains, engaging in combat while skiing and operating alongside the Alpini, culminating in a validation exercise against opposing forces in a mountainous environment. This training plays a key role in further developing the relationship, interoperability and mission capabilities of both forces.\n  The 173rd Airborne Brigade is the U.S. Army's Contingency Response Force in Europe, providing rapidly deployable forces to the United States European, African, and Central Command areas of responsibility. Forward deployed across Italy and Germany, the brigade routinely trains alongside NATO allies and partners to build partnerships and strengthen the alliance.\n \n(U.S. Army photo by Staff Sgt. John Yountz)",
+      "sourceCredit": "This image was released by the United States Army with the  ID   220215-A-TO756-065    (next)  . \n This tag does not indicate the copyright status of the attached work.  A normal  copyright tag  is still required.   See  Commons:Licensing .  \n \n \n    العربية    ∙    বাংলা    ∙  \n  Bahasa Indonesia    ∙  \n  Bahaso Jambi    ∙  \n  Deutsch    ∙    Deutsch (Sie-Form)    ∙    English    ∙    español    ∙    euskara    ∙    فارسی    ∙    français    ∙    italiano    ∙    日本語    ∙    한국어    ∙    македонски    ∙    മലയാളം    ∙    Plattdüütsch    ∙    Nederlands    ∙    polski    ∙    پښتو    ∙    portu",
+      "changes": "Ridimensionamento e conversione WebP ottimizzata; nessun ritaglio aggiuntivo. Le fotografie CC BY-SA restano distribuite con la medesima licenza indicata.",
+      "illustrative": false,
+      "verification": "Identificazione della fonte e fotografia esaminate; la scheda usa la famiglia o il modello indicato, senza attribuire sottovarianti diverse."
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "m4",
+    "group": "infantry",
+    "identity": {
+      "name": "M4A1",
+      "origin": "Stati Uniti",
+      "manufacturer": "Colt / FN America",
+      "role": "Carabina",
+      "description": "Carabina. Capacità rappresentate in forma astratta.",
+      "variant": "M4A1",
+      "navalClass": null
+    },
+    "game": {
+      "price": 21,
+      "power": 6,
+      "maintenance": 0.048,
+      "deliverySeconds": 19,
+      "effectiveness": 60,
+      "resistance": 39,
+      "mobility": 69,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.navy.gov.au/capabilities/weapons/m4a1-carbine",
+      "checkedAt": "2026-10-30",
+      "status": "verifica parziale",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": [
+        "Conferma puntuale di produttore, origine e configurazione"
+      ]
+    },
+    "photo": {
+      "src": "/photos/ground-m4.webp",
+      "thumbnail": "/photos/ground-m4-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:M4A1-flattop.png",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8f/M4A1-flattop.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Source:  PEO Soldier  Derivative:  User:MathKnight",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov",
+      "attribution": "Source:  PEO Soldier  Derivative:  User:MathKnight / M4A1-flattop.png / Public domain",
+      "identifiedAs": "M4A1 Carbine Flat-Top — didascalia Commons del derivato di PEO Soldier",
+      "checkedAt": "2026-10-30",
+      "description": "M4A1 Carbine  \"Flat-Top\" assault rifle",
+      "sourceCredit": "File:M4 PEO Soldier.jpg  by  PEO Soldier",
+      "changes": "Ridimensionamento e conversione WebP ottimizzata; nessun ritaglio aggiuntivo. Le fotografie CC BY-SA restano distribuite con la medesima licenza indicata.",
+      "illustrative": false,
+      "verification": "Identificazione della fonte e fotografia esaminate; la scheda usa la famiglia o il modello indicato, senza attribuire sottovarianti diverse."
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "hk416",
+    "group": "infantry",
+    "identity": {
+      "name": "HK416",
+      "origin": "Germania",
+      "manufacturer": "Heckler & Koch",
+      "role": "Fucile d’assalto",
+      "description": "Fucile d’assalto. Capacità rappresentate in forma astratta.",
+      "variant": "",
+      "navalClass": null
+    },
+    "game": {
+      "price": 23,
+      "power": 7,
+      "maintenance": 0.054,
+      "deliverySeconds": 17,
+      "effectiveness": 65,
+      "resistance": 43,
+      "mobility": 73,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://hk-usa.com/wp-content/uploads/HK-USA-MILITARY-LE-COMBINED-CATALOG1.pdf",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/ground-hk416.webp",
+      "thumbnail": "/photos/ground-hk416-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:HK416_F_French_military.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2e/HK416_F_French_military.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Matthieu L//  French Army",
+      "license": "Licence Ouverte",
+      "licenseUrl": "https://www.etalab.gouv.fr/licence-ouverte-open-licence",
+      "attribution": "Matthieu L//  French Army / HK416 F French military.jpg / Licence Ouverte",
+      "identifiedAs": "HK416 F — variante francese della famiglia HK416",
+      "checkedAt": "2026-10-30",
+      "description": "A French soldier from the 35th Infantry Regiment with his HK416 F during a shooting session (January 2022)",
+      "sourceCredit": "The Armée de Terre's Facebook page",
+      "changes": "Ridimensionamento e conversione WebP ottimizzata; nessun ritaglio aggiuntivo. Le fotografie CC BY-SA restano distribuite con la medesima licenza indicata.",
+      "illustrative": false,
+      "verification": "Identificazione della fonte e fotografia esaminate; la scheda usa la famiglia o il modello indicato, senza attribuire sottovarianti diverse."
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "hk417",
+    "group": "infantry",
+    "identity": {
+      "name": "HK417",
+      "origin": "Germania",
+      "manufacturer": "Heckler & Koch",
+      "role": "Fucile da battaglia",
+      "description": "Fucile da battaglia. Capacità rappresentate in forma astratta.",
+      "variant": "",
+      "navalClass": null
+    },
+    "game": {
+      "price": 25,
+      "power": 8,
+      "maintenance": 0.06,
+      "deliverySeconds": 15,
+      "effectiveness": 70,
+      "resistance": 47,
+      "mobility": 77,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://hk-usa.com/wp-content/uploads/HK-USA-MILITARY-LE-COMBINED-CATALOG1.pdf",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/ground-hk417.webp",
+      "thumbnail": "/photos/ground-hk417-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:210923-Z-JY390-033_-_ISTC_Alpine_Sniper_Course_2021_(Image_29_of_33).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c2/210923-Z-JY390-033_-_ISTC_Alpine_Sniper_Course_2021_%28Image_29_of_33%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Sgt. Patrik Orcutt",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov",
+      "attribution": "Sgt. Patrik Orcutt / 210923-Z-JY390-033 - ISTC Alpine Sniper Course 2021 (Image 29 of 33).jpg / Public domain",
+      "identifiedAs": "HK417 A2 Recon Rifle — didascalia U.S. Army",
+      "checkedAt": "2026-10-30",
+      "description": "An Austrian Special Forces Sniper fires an HK417 A2 Recon Rifle at paper targets downrage at the International Specialty Training Center (ISTC) Alpine Sniper Course, in Hochfilzen training area, Austria, September 24th, 2021.The Alpine Sniper Course lasts two weeks and is designed to teach and train sniper teams the necessary skills to operate in mountainous terrain. (U.S. Army photo by Sgt. Patrik Orcutt)",
+      "sourceCredit": "https://www.dvidshub.net/image/6873153/istc-alpine-sniper-course-2021",
+      "changes": "Ridimensionamento e conversione WebP ottimizzata; nessun ritaglio aggiuntivo. Le fotografie CC BY-SA restano distribuite con la medesima licenza indicata.",
+      "illustrative": false,
+      "verification": "Identificazione della fonte e fotografia esaminate; la scheda usa la famiglia o il modello indicato, senza attribuire sottovarianti diverse."
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "g36",
+    "group": "infantry",
+    "identity": {
+      "name": "G36",
+      "origin": "Germania",
+      "manufacturer": "Heckler & Koch",
+      "role": "Fucile d’assalto",
+      "description": "Fucile d’assalto. Capacità rappresentate in forma astratta.",
+      "variant": "",
+      "navalClass": null
+    },
+    "game": {
+      "price": 27,
+      "power": 9,
+      "maintenance": 0.066,
+      "deliverySeconds": 17,
+      "effectiveness": 75,
+      "resistance": 51,
+      "mobility": 81,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://hk-usa.com/wp-content/uploads/HK-USA-MILITARY-LE-COMBINED-CATALOG1.pdf",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/ground-g36.webp",
+      "thumbnail": "/photos/ground-g36-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Gewehr_G36.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Gewehr_G36.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "taken by DomoK, modified",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "taken by DomoK, modified / Gewehr G36.jpg / CC BY-SA 3.0",
+      "identifiedAs": "Heckler & Koch G36",
+      "checkedAt": "2026-10-30",
+      "description": "Heckler & Koch - Gewehr G36",
+      "sourceCredit": "Own work",
+      "changes": "Ridimensionamento e conversione WebP ottimizzata; nessun ritaglio aggiuntivo. Le fotografie CC BY-SA restano distribuite con la medesima licenza indicata.",
+      "illustrative": false,
+      "verification": "Identificazione della fonte e fotografia esaminate; la scheda usa la famiglia o il modello indicato, senza attribuire sottovarianti diverse."
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "scar",
+    "group": "infantry",
+    "identity": {
+      "name": "FN SCAR-L",
+      "origin": "Belgio",
+      "manufacturer": "FN Herstal",
+      "role": "Fucile d’assalto",
+      "description": "Fucile d’assalto. Capacità rappresentate in forma astratta.",
+      "variant": "L",
+      "navalClass": null
+    },
+    "game": {
+      "price": 29,
+      "power": 10,
+      "maintenance": 0.072,
+      "deliverySeconds": 19,
+      "effectiveness": 80,
+      "resistance": 55,
+      "mobility": 85,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://fnherstal.com/en/security/carbines-rifles/",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/ground-scar.webp",
+      "thumbnail": "/photos/ground-scar-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:FN_SCAR-L_noBG.png",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/93/FN_SCAR-L_noBG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Mitch Barrie from Costa Mesa, CA, USA",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Mitch Barrie from Costa Mesa, CA, USA / FN SCAR-L noBG.png / CC BY-SA 4.0",
+      "identifiedAs": "FN SCAR-L",
+      "checkedAt": "2026-10-30",
+      "description": "FN SCAR-L",
+      "sourceCredit": "File:Impulse_buy_(12721727313).jpg",
+      "changes": "Ridimensionamento e conversione WebP ottimizzata; nessun ritaglio aggiuntivo. Le fotografie CC BY-SA restano distribuite con la medesima licenza indicata.",
+      "illustrative": false,
+      "verification": "Identificazione della fonte e fotografia esaminate; la scheda usa la famiglia o il modello indicato, senza attribuire sottovarianti diverse."
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "ak74",
+    "group": "infantry",
+    "identity": {
+      "name": "AK-74M",
+      "origin": "Russia",
+      "manufacturer": "Kalashnikov",
+      "role": "Fucile d’assalto",
+      "description": "Fucile d’assalto. Capacità rappresentate in forma astratta.",
+      "variant": "M",
+      "navalClass": null
+    },
+    "game": {
+      "price": 31,
+      "power": 11,
+      "maintenance": 0.078,
+      "deliverySeconds": 21,
+      "effectiveness": 85,
+      "resistance": 35,
+      "mobility": 89,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.rosguard.gov.ru/ru/page/index/avtomat-ak74m",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/ground-ak74.webp",
+      "thumbnail": "/photos/ground-ak74-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:AK-74M_with_collimator_sight_PKM-Alpha.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8f/AK-74M_with_collimator_sight_PKM-Alpha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Pkm-betta",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attribution": "Pkm-betta / AK-74M with collimator sight PKM-Alpha.jpg / CC0",
+      "identifiedAs": "AK-74M con collimatore PKM-Alpha",
+      "checkedAt": "2026-10-30",
+      "description": "Коллиматорный прицел ПКМ-Альфа экипировки «Ратник», установленный на АК-74М.",
+      "sourceCredit": "Own work",
+      "changes": "Ridimensionamento e conversione WebP ottimizzata; nessun ritaglio aggiuntivo. Le fotografie CC BY-SA restano distribuite con la medesima licenza indicata.",
+      "illustrative": false,
+      "verification": "Identificazione della fonte e fotografia esaminate; la scheda usa la famiglia o il modello indicato, senza attribuire sottovarianti diverse."
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "mp7",
+    "group": "infantry",
+    "identity": {
+      "name": "HK MP7",
+      "origin": "Germania",
+      "manufacturer": "Heckler & Koch",
+      "role": "Difesa personale",
+      "description": "Difesa personale. Capacità rappresentate in forma astratta.",
+      "variant": "",
+      "navalClass": null
+    },
+    "game": {
+      "price": 19,
+      "power": 5,
+      "maintenance": 0.042,
+      "deliverySeconds": 21,
+      "effectiveness": 55,
+      "resistance": 39,
+      "mobility": 65,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://hk-usa.com/wp-content/uploads/HK-USA-MILITARY-LE-COMBINED-CATALOG1.pdf",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/ground-mp7.webp",
+      "thumbnail": "/photos/ground-mp7-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Heckler_%26_Koch_MP7A1.png",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/44/Heckler_%26_Koch_MP7A1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Remigiusz Wilk REMOV",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "attribution": "Remigiusz Wilk REMOV / Heckler & Koch MP7A1.png / CC BY-SA 2.5",
+      "identifiedAs": "Heckler & Koch MP7A1 — famiglia MP7",
+      "checkedAt": "2026-10-30",
+      "description": "Heckler & Koch MP7A1 PDW",
+      "sourceCredit": "This file was derived from:   Heckler & Koch MP7A1.jpg",
+      "changes": "Ridimensionamento e conversione WebP ottimizzata; nessun ritaglio aggiuntivo. Le fotografie CC BY-SA restano distribuite con la medesima licenza indicata.",
+      "illustrative": false,
+      "verification": "Identificazione della fonte e fotografia esaminate; la scheda usa la famiglia o il modello indicato, senza attribuire sottovarianti diverse."
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "minimi",
+    "group": "infantry",
+    "identity": {
+      "name": "FN MINIMI",
+      "origin": "Belgio",
+      "manufacturer": "FN Herstal",
+      "role": "Mitragliatrice leggera",
+      "description": "Mitragliatrice leggera. Capacità rappresentate in forma astratta.",
+      "variant": "",
+      "navalClass": null
+    },
+    "game": {
+      "price": 21,
+      "power": 6,
+      "maintenance": 0.048,
+      "deliverySeconds": 19,
+      "effectiveness": 60,
+      "resistance": 43,
+      "mobility": 69,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://fnherstal.com/en/defence/portable-weapons/machine-guns/",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/ground-minimi.webp",
+      "thumbnail": "/photos/ground-minimi-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:FN_Minimi_Para_Left.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c1/FN_Minimi_Para_Left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "FN Herstal",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attribution": "FN Herstal / FN Minimi Para Left.jpg / CC BY-SA 2.0",
+      "identifiedAs": "FN MINIMI Para — famiglia MINIMI",
+      "checkedAt": "2026-10-30",
+      "description": "Minimi Para",
+      "sourceCredit": "https://www.flickr.com/photos/15725582@N08/2768330823/",
+      "changes": "Ridimensionamento e conversione WebP ottimizzata; nessun ritaglio aggiuntivo. Le fotografie CC BY-SA restano distribuite con la medesima licenza indicata.",
+      "illustrative": false,
+      "verification": "Identificazione della fonte e fotografia esaminate; la scheda usa la famiglia o il modello indicato, senza attribuire sottovarianti diverse."
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "mag",
+    "group": "infantry",
+    "identity": {
+      "name": "FN MAG",
+      "origin": "Belgio",
+      "manufacturer": "FN Herstal",
+      "role": "Mitragliatrice polivalente",
+      "description": "Mitragliatrice polivalente. Capacità rappresentate in forma astratta.",
+      "variant": "",
+      "navalClass": null
+    },
+    "game": {
+      "price": 23,
+      "power": 7,
+      "maintenance": 0.054,
+      "deliverySeconds": 17,
+      "effectiveness": 65,
+      "resistance": 47,
+      "mobility": 73,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://fnherstal.com/en/defence/portable-weapons/machine-guns/",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/ground-mag.webp",
+      "thumbnail": "/photos/ground-mag-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:FN_MAG_white_background.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/97/FN_MAG_white_background.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "FN Herstal",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "attribution": "FN Herstal / FN MAG white background.jpg / CC BY 2.0",
+      "identifiedAs": "FN MAG",
+      "checkedAt": "2026-10-30",
+      "description": "FN MAG.\nIf you'd like to use this image, please credit FN Herstal as the author, that is the condition to be licensed under Creative Common Attribution.",
+      "sourceCredit": "https://www.flickr.com/photos/15725582@N08/2769178946/",
+      "changes": "Ridimensionamento e conversione WebP ottimizzata; nessun ritaglio aggiuntivo. Le fotografie CC BY-SA restano distribuite con la medesima licenza indicata.",
+      "illustrative": false,
+      "verification": "Identificazione della fonte e fotografia esaminate; la scheda usa la famiglia o il modello indicato, senza attribuire sottovarianti diverse."
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "p90",
+    "group": "infantry",
+    "identity": {
+      "name": "FN P90",
+      "origin": "Belgio",
+      "manufacturer": "FN Herstal",
+      "role": "Difesa personale",
+      "description": "Difesa personale. Capacità rappresentate in forma astratta.",
+      "variant": "",
+      "navalClass": null
+    },
+    "game": {
+      "price": 25,
+      "power": 8,
+      "maintenance": 0.06,
+      "deliverySeconds": 15,
+      "effectiveness": 70,
+      "resistance": 51,
+      "mobility": 77,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://fnherstal.com/en/defence/portable-weapons/fn-p90/",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/ground-p90.webp",
+      "thumbnail": "/photos/ground-p90-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:FN_P90_Submachine_Gun_Left_Side.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7b/FN_P90_Submachine_Gun_Left_Side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "FN Herstal",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attribution": "FN Herstal / FN P90 Submachine Gun Left Side.jpg / CC BY-SA 2.0",
+      "identifiedAs": "FN P90 Standard",
+      "checkedAt": "2026-10-30",
+      "description": "P90 Standard, left side",
+      "sourceCredit": "https://www.flickr.com/photos/15725582@N08/2769180422/",
+      "changes": "Ridimensionamento e conversione WebP ottimizzata; nessun ritaglio aggiuntivo. Le fotografie CC BY-SA restano distribuite con la medesima licenza indicata.",
+      "illustrative": false,
+      "verification": "Identificazione della fonte e fotografia esaminate; la scheda usa la famiglia o il modello indicato, senza attribuire sottovarianti diverse."
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "mg4",
+    "group": "infantry",
+    "identity": {
+      "name": "HK MG4",
+      "origin": "Germania",
+      "manufacturer": "Heckler & Koch",
+      "role": "Mitragliatrice leggera",
+      "description": "Mitragliatrice leggera. Capacità rappresentate in forma astratta.",
+      "variant": "",
+      "navalClass": null
+    },
+    "game": {
+      "price": 27,
+      "power": 9,
+      "maintenance": 0.066,
+      "deliverySeconds": 17,
+      "effectiveness": 75,
+      "resistance": 55,
+      "mobility": 81,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://hk-usa.com/wp-content/uploads/HK-USA-MILITARY-LE-COMBINED-CATALOG1.pdf",
+      "checkedAt": "2026-10-30",
+      "status": "verifica parziale",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": [
+        "Conferma puntuale di produttore, origine e configurazione"
+      ]
+    },
+    "photo": {
+      "src": "/photos/ground-mg4.webp",
+      "thumbnail": "/photos/ground-mg4-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:MG4_(2).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/1e/MG4_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "KrisfromGermany",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "KrisfromGermany / MG4 (2).jpg / CC BY-SA 3.0",
+      "identifiedAs": "HK MG4",
+      "checkedAt": "2026-10-30",
+      "description": "HK MG4",
+      "sourceCredit": "This image has been  extracted  from another file",
+      "changes": "Ridimensionamento e conversione WebP ottimizzata; nessun ritaglio aggiuntivo. Le fotografie CC BY-SA restano distribuite con la medesima licenza indicata.",
+      "illustrative": false,
+      "verification": "Identificazione della fonte e fotografia esaminate; la scheda usa la famiglia o il modello indicato, senza attribuire sottovarianti diverse."
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "mg5",
+    "group": "infantry",
+    "identity": {
+      "name": "HK MG5",
+      "origin": "Germania",
+      "manufacturer": "Heckler & Koch",
+      "role": "Mitragliatrice polivalente",
+      "description": "Mitragliatrice polivalente. Capacità rappresentate in forma astratta.",
+      "variant": "",
+      "navalClass": null
+    },
+    "game": {
+      "price": 29,
+      "power": 10,
+      "maintenance": 0.072,
+      "deliverySeconds": 19,
+      "effectiveness": 80,
+      "resistance": 35,
+      "mobility": 85,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://hk-usa.com/wp-content/uploads/HK-USA-MILITARY-LE-COMBINED-CATALOG1.pdf",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/ground-mg5.webp",
+      "thumbnail": "/photos/ground-mg5-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Heckler_%26_Koch_MG5.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/50/Heckler_%26_Koch_MG5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Boevaya mashina",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "Boevaya mashina / Heckler & Koch MG5.jpg / CC BY-SA 3.0",
+      "identifiedAs": "Heckler & Koch MG5",
+      "checkedAt": "2026-10-30",
+      "description": "Heckler & Koch MG5 general-purpose machine gun in German military service, Letzlingen 2019",
+      "sourceCredit": "Own work",
+      "changes": "Ridimensionamento e conversione WebP ottimizzata; nessun ritaglio aggiuntivo. Le fotografie CC BY-SA restano distribuite con la medesima licenza indicata.",
+      "illustrative": false,
+      "verification": "Identificazione della fonte e fotografia esaminate; la scheda usa la famiglia o il modello indicato, senza attribuire sottovarianti diverse."
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "evolys",
+    "group": "infantry",
+    "identity": {
+      "name": "FN EVOLYS",
+      "origin": "Belgio",
+      "manufacturer": "FN Herstal",
+      "role": "Mitragliatrice leggera",
+      "description": "Mitragliatrice leggera. Capacità rappresentate in forma astratta.",
+      "variant": "",
+      "navalClass": null
+    },
+    "game": {
+      "price": 31,
+      "power": 11,
+      "maintenance": 0.078,
+      "deliverySeconds": 21,
+      "effectiveness": 85,
+      "resistance": 39,
+      "mobility": 89,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://fnherstal.com/en/defence/machine-guns/",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/ground-evolys.webp",
+      "thumbnail": "/photos/ground-evolys-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:FN_EVOLYS_with_bipod_left.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/48/FN_EVOLYS_with_bipod_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "The RedBurn",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "The RedBurn / FN EVOLYS with bipod left.jpg / CC BY-SA 4.0",
+      "identifiedAs": "FN EVOLYS 7.62×51 mm — famiglia EVOLYS",
+      "checkedAt": "2026-10-30",
+      "description": "FN EVOLYS 7.62×51mm NATO version",
+      "sourceCredit": "Own work",
+      "changes": "Ridimensionamento e conversione WebP ottimizzata; nessun ritaglio aggiuntivo. Le fotografie CC BY-SA restano distribuite con la medesima licenza indicata.",
+      "illustrative": false,
+      "verification": "Identificazione della fonte e fotografia esaminate; la scheda usa la famiglia o il modello indicato, senza attribuire sottovarianti diverse."
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "bren",
+    "group": "infantry",
+    "identity": {
+      "name": "CZ BREN 2",
+      "origin": "Repubblica Ceca",
+      "manufacturer": "Česká zbrojovka",
+      "role": "Fucile d’assalto",
+      "description": "Fucile d’assalto. Capacità rappresentate in forma astratta.",
+      "variant": "",
+      "navalClass": null
+    },
+    "game": {
+      "price": 19,
+      "power": 5,
+      "maintenance": 0.042,
+      "deliverySeconds": 21,
+      "effectiveness": 55,
+      "resistance": 43,
+      "mobility": 65,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://acr.mo.gov.cz/technika-a-vyzbroj/pechotni/utocna-puska-cz-bren-2-209501/",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/ground-bren.webp",
+      "thumbnail": "/photos/ground-bren-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:GIGN22_Domenjod_140618.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a7/GIGN22_Domenjod_140618.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Domenjod",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Domenjod / GIGN22 Domenjod 140618.jpg / CC BY-SA 4.0",
+      "identifiedAs": "CZ BREN 2 del GIGN",
+      "checkedAt": "2026-10-30",
+      "description": "GIGN's CZ BREN 2 assault rifle",
+      "sourceCredit": "Own work",
+      "changes": "Ridimensionamento e conversione WebP ottimizzata; nessun ritaglio aggiuntivo. Le fotografie CC BY-SA restano distribuite con la medesima licenza indicata.",
+      "illustrative": false,
+      "verification": "Identificazione della fonte e fotografia esaminate; la scheda usa la famiglia o il modello indicato, senza attribuire sottovarianti diverse."
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "abrams",
+    "group": "tank",
+    "identity": {
+      "name": "M1A2 Abrams",
+      "origin": "Stati Uniti",
+      "manufacturer": "General Dynamics Land Systems",
+      "role": "Carro da combattimento",
+      "description": "Carro da combattimento. Capacità rappresentate in forma astratta.",
+      "variant": "M1A2",
+      "navalClass": null
+    },
+    "game": {
+      "price": 65,
+      "power": 25,
+      "maintenance": 0.22,
+      "deliverySeconds": 20,
+      "effectiveness": 85,
+      "resistance": 90,
+      "mobility": 45,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.gdls.com/abrams/",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/abrams.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:M1A2_Abrams_firing.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/01/M1A2_Abrams_firing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Sgt. Joaquin Vasquez-Duran",
+      "license": "Pubblico dominio — opera del governo federale USA",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov",
+      "attribution": "U.S. Army / Sgt. Joaquin Vasquez-Duran",
+      "identifiedAs": "M1A2 Abrams, configurazione SEP indicata nella didascalia della fonte",
+      "checkedAt": "2026-10-30",
+      "description": "An M1A2 Abrams tank assigned to the 98th Cavalry Regiment,  fires a tank round at a target during a live fire qualifications at the Udairi Multi Purpose Range Complex, Kuwait, August, 2023.The M1A2 System Enhancement Package Version 2 (SEPv2) is an upgraded version of the M1 Abrams main battle tank.It features improved electronics, including updated command, control, and communication systems.(U.S. Army Photo by Sgt. Joaquin Vasquez-Duran).",
+      "changes": "Ridimensionamento e conversione WebP; nessuna alterazione del soggetto",
+      "endorsement": "Nessuna approvazione o affiliazione del Dipartimento della Difesa statunitense.",
+      "thumbnail": "/photos/abrams-thumb.webp"
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "leopard",
+    "group": "tank",
+    "identity": {
+      "name": "Leopard 2A7",
+      "origin": "Germania",
+      "manufacturer": "KNDS Deutschland",
+      "role": "Carro da combattimento",
+      "description": "Carro da combattimento. Capacità rappresentate in forma astratta.",
+      "variant": "2A7",
+      "navalClass": null
+    },
+    "game": {
+      "price": 55,
+      "power": 23,
+      "maintenance": 0.208,
+      "deliverySeconds": 24,
+      "effectiveness": 60,
+      "resistance": 69,
+      "mobility": 44,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://knds.com/en/products/systems/leopard/leopard-2-a7",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/ground-leopard.webp",
+      "thumbnail": "/photos/ground-leopard-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Tank_Leopard_2A7_NATO_Days_2022.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Tank_Leopard_2A7_NATO_Days_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Fric.matej",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Fric.matej / Tank Leopard 2A7 NATO Days 2022.jpg / CC BY-SA 4.0",
+      "identifiedAs": "Leopard 2A7 — NATO Days 2022",
+      "checkedAt": "2026-10-30",
+      "description": "Leopard 2A7 tank (KMW) at NATO Days 2022. NATO Days is the biggest security show in Europe, traditionally held annually at Ostrava Leos Janacek Airport.",
+      "sourceCredit": "Own work",
+      "changes": "Ridimensionamento e conversione WebP ottimizzata; nessun ritaglio aggiuntivo. Le fotografie CC BY-SA restano distribuite con la medesima licenza indicata.",
+      "illustrative": false,
+      "verification": "Identificazione della fonte e fotografia esaminate; la scheda usa la famiglia o il modello indicato, senza attribuire sottovarianti diverse."
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "ariete",
+    "group": "tank",
+    "identity": {
+      "name": "C1 Ariete",
+      "origin": "Italia",
+      "manufacturer": "Consorzio Iveco–Oto Melara",
+      "role": "Carro da combattimento",
+      "description": "Carro da combattimento. Capacità rappresentate in forma astratta.",
+      "variant": "C1",
+      "navalClass": null
+    },
+    "game": {
+      "price": 60,
+      "power": 24,
+      "maintenance": 0.214,
+      "deliverySeconds": 22,
+      "effectiveness": 65,
+      "resistance": 73,
+      "mobility": 48,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.esercito.difesa.it/equipaggiamenti/veicoli-blindati-e-corazzati-da-combattimento/veicoli-da-combattimento/carro-armato-ariete/81543.html",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/ground-ariete.webp",
+      "thumbnail": "/photos/ground-ariete-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:C1_Ariete_(6540152).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e2/C1_Ariete_%286540152%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "U.S. Army JMRC by Spc.  Uriel Ramirez",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov",
+      "attribution": "U.S. Army JMRC by Spc.  Uriel Ramirez / C1 Ariete (6540152).jpg / Public domain",
+      "identifiedAs": "C1 Ariete — U.S. Army JMRC, 26 febbraio 2021",
+      "checkedAt": "2026-10-30",
+      "description": "Italian soldiers in a C1 Ariete assigned to Alpha Company, 11th Bersaglieri Battalion provide security in Hohenfels Training Area, Germany, Feb. 26, 2021. Combined Resolve XV enhances professional relationships and improves overall coordination with allies and partners during a crisis. (U.S. Army photo by Spc. Uriel Ramirez).",
+      "sourceCredit": "This image was released by the United States Army with the  ID   210226-A-GQ344-1003    (next)  . \n This tag does not indicate the copyright status of the attached work.  A normal  copyright tag  is still required.   See  Commons:Licensing .  \n \n \n    العربية    ∙    বাংলা    ∙  \n  Bahasa Indonesia    ∙  \n  Bahaso Jambi    ∙  \n  Deutsch    ∙    Deutsch (Sie-Form)    ∙    English    ∙    español    ∙    euskara    ∙    فارسی    ∙    français    ∙    italiano    ∙    日本語    ∙    한국어    ∙    македонски    ∙    മലയാളം    ∙    Plattdüütsch    ∙    Nederlands    ∙    polski    ∙    پښتو    ∙    português    ∙    русский    ∙    slovenščina    ∙    svenska    ∙    Türkçe    ∙    українська    ∙    简体中文    ∙    繁體中文    ∙    +/−",
+      "changes": "Ridimensionamento e conversione WebP ottimizzata; nessun ritaglio aggiuntivo. Le fotografie CC BY-SA restano distribuite con la medesima licenza indicata.",
+      "illustrative": false,
+      "verification": "Identificazione della fonte e fotografia esaminate; la scheda usa la famiglia o il modello indicato, senza attribuire sottovarianti diverse."
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "leclerc",
+    "group": "tank",
+    "identity": {
+      "name": "Leclerc XLR",
+      "origin": "Francia",
+      "manufacturer": "KNDS France",
+      "role": "Carro da combattimento",
+      "description": "Carro da combattimento. Capacità rappresentate in forma astratta.",
+      "variant": "XLR",
+      "navalClass": null
+    },
+    "game": {
+      "price": 65,
+      "power": 25,
+      "maintenance": 0.22,
+      "deliverySeconds": 20,
+      "effectiveness": 70,
+      "resistance": 77,
+      "mobility": 52,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://knds.com/en/products/systems/leclerc-xlr",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": null,
+    "photoStatus": "Foto non disponibile"
+  },
+  {
+    "id": "challenger",
+    "group": "tank",
+    "identity": {
+      "name": "Challenger 2",
+      "origin": "Regno Unito",
+      "manufacturer": "Vickers Defence Systems",
+      "role": "Carro da combattimento",
+      "description": "Carro da combattimento. Capacità rappresentate in forma astratta.",
+      "variant": "2",
+      "navalClass": null
+    },
+    "game": {
+      "price": 70,
+      "power": 26,
+      "maintenance": 0.226,
+      "deliverySeconds": 22,
+      "effectiveness": 75,
+      "resistance": 81,
+      "mobility": 56,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.army.mod.uk/learn-and-explore/equipment/combat-vehicles/challenger-2/",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/ground-challenger.webp",
+      "thumbnail": "/photos/ground-challenger-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Challenger_2_%22Amazon%22.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/29/Challenger_2_%22Amazon%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "KyūMaruOtami",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "attribution": "KyūMaruOtami / Challenger 2 \"Amazon\".jpg / CC BY 4.0",
+      "identifiedAs": "Challenger 2 Amazon",
+      "checkedAt": "2026-10-30",
+      "description": "A Challenger 2 tank, named Amazon, is displayed for the parade and ceremony in commemoration of Cambrai Day, November 20, 2025.",
+      "sourceCredit": "Own work",
+      "changes": "Ridimensionamento e conversione WebP ottimizzata; nessun ritaglio aggiuntivo. Le fotografie CC BY-SA restano distribuite con la medesima licenza indicata.",
+      "illustrative": false,
+      "verification": "Identificazione della fonte e fotografia esaminate; la scheda usa la famiglia o il modello indicato, senza attribuire sottovarianti diverse."
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "k2",
+    "group": "tank",
+    "identity": {
+      "name": "K2",
+      "origin": "Corea del Sud",
+      "manufacturer": "Hyundai Rotem",
+      "role": "Carro da combattimento",
+      "description": "Carro da combattimento. Capacità rappresentate in forma astratta.",
+      "variant": "",
+      "navalClass": null
+    },
+    "game": {
+      "price": 75,
+      "power": 27,
+      "maintenance": 0.232,
+      "deliverySeconds": 24,
+      "effectiveness": 80,
+      "resistance": 85,
+      "mobility": 60,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.hyundai-rotem.co.kr/en/business/defense/details.do?productCt03=defense0101",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/ground-k2.webp",
+      "thumbnail": "/photos/ground-k2-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:K2_black_panther3.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8d/K2_black_panther3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Simta",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "Simta / K2 black panther3.jpg / CC BY-SA 3.0",
+      "identifiedAs": "K2 Black Panther — Seoul ADEX 2013",
+      "checkedAt": "2026-10-30",
+      "description": "K2 Black Panther on display at Seoul International Aerospace & Defense Exhibition 2013",
+      "sourceCredit": "Own work",
+      "changes": "Ridimensionamento e conversione WebP ottimizzata; nessun ritaglio aggiuntivo. Le fotografie CC BY-SA restano distribuite con la medesima licenza indicata.",
+      "illustrative": false,
+      "verification": "Identificazione della fonte e fotografia esaminate; la scheda usa la famiglia o il modello indicato, senza attribuire sottovarianti diverse."
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "t90",
+    "group": "tank",
+    "identity": {
+      "name": "T-90M",
+      "origin": "Russia",
+      "manufacturer": "Uralvagonzavod",
+      "role": "Carro da combattimento",
+      "description": "Carro da combattimento. Capacità rappresentate in forma astratta.",
+      "variant": "M",
+      "navalClass": null
+    },
+    "game": {
+      "price": 80,
+      "power": 28,
+      "maintenance": 0.238,
+      "deliverySeconds": 26,
+      "effectiveness": 85,
+      "resistance": 65,
+      "mobility": 64,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.rostec.ru/en/media/news/uralvagonzavod-delivered-the-t-90m-and-t-72b3m-tanks-to-the-field-on-the-eve-of-the-victory-day/",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/ground-t90.webp",
+      "thumbnail": "/photos/ground-t90-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:T-90M.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d9/T-90M.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Ministry of Defence of the Russian Federation",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "attribution": "Ministry of Defence of the Russian Federation / T-90M.jpg / CC BY 4.0 / Mil.ru",
+      "identifiedAs": "T-90M — fotografia del Ministero della Difesa della Federazione Russa",
+      "checkedAt": "2026-10-30",
+      "description": "T-90M main battle tank.",
+      "sourceCredit": "https://function.mil.ru/news_page/country/more.htm?id=12286544@egNews",
+      "changes": "Ridimensionamento e conversione WebP ottimizzata; nessun ritaglio aggiuntivo. Le fotografie CC BY-SA restano distribuite con la medesima licenza indicata.",
+      "illustrative": false,
+      "verification": "Identificazione T-90M e licenza CC BY 4.0 esplicite nella fonte; attribuzione richiesta Mil.ru.",
+      "requiredAttribution": "Mil.ru"
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "type10",
+    "group": "tank",
+    "identity": {
+      "name": "Type 10",
+      "origin": "Giappone",
+      "manufacturer": "Mitsubishi Heavy Industries",
+      "role": "Carro da combattimento",
+      "description": "Carro da combattimento. Capacità rappresentate in forma astratta.",
+      "variant": "",
+      "navalClass": null
+    },
+    "game": {
+      "price": 50,
+      "power": 22,
+      "maintenance": 0.202,
+      "deliverySeconds": 26,
+      "effectiveness": 55,
+      "resistance": 69,
+      "mobility": 40,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.mod.go.jp/atla/en/research/rnd_files/rnd_brochure_eng2025.pdf",
+      "checkedAt": "2026-10-30",
+      "status": "verifica parziale",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": [
+        "Conferma puntuale di produttore, origine e configurazione"
+      ]
+    },
+    "photo": {
+      "src": "/photos/ground-type10.webp",
+      "thumbnail": "/photos/ground-type10-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:JGSDF_Type10_tank_20120527-11.JPG",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c9/JGSDF_Type10_tank_20120527-11.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Los688",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attribution": "Los688 / JGSDF Type10 tank 20120527-11.JPG / CC0",
+      "identifiedAs": "Type 10 JGSDF — modello di produzione",
+      "checkedAt": "2026-10-30",
+      "description": "JGSDF Type10 Tank (production model),1st Armored Training Unit/Eastern Army Combined Brigade.Taken by Los688,in Camp Takeyama,Japan,at 27-May-2012.PD-self\n \nja:10式戦車（量産型）2012年05月27日、東部方面混成団第1機甲教育隊　武山駐屯地で撮影。",
+      "sourceCredit": "Own work",
+      "changes": "Ridimensionamento e conversione WebP ottimizzata; nessun ritaglio aggiuntivo. Le fotografie CC BY-SA restano distribuite con la medesima licenza indicata.",
+      "illustrative": false,
+      "verification": "Identificazione della fonte e fotografia esaminate; la scheda usa la famiglia o il modello indicato, senza attribuire sottovarianti diverse."
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "type90",
+    "group": "tank",
+    "identity": {
+      "name": "Type 90",
+      "origin": "Giappone",
+      "manufacturer": "Mitsubishi Heavy Industries",
+      "role": "Carro da combattimento",
+      "description": "Carro da combattimento. Capacità rappresentate in forma astratta.",
+      "variant": "",
+      "navalClass": null
+    },
+    "game": {
+      "price": 55,
+      "power": 23,
+      "maintenance": 0.208,
+      "deliverySeconds": 24,
+      "effectiveness": 60,
+      "resistance": 73,
+      "mobility": 44,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.mod.go.jp/atla/en/research/rnd_files/rnd_brochure_eng2025.pdf",
+      "checkedAt": "2026-10-30",
+      "status": "verifica parziale",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": [
+        "Conferma puntuale di produttore, origine e configurazione"
+      ]
+    },
+    "photo": {
+      "src": "/photos/ground-type90.webp",
+      "thumbnail": "/photos/ground-type90-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Japanese_Type_90_Tank_-_1.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Japanese_Type_90_Tank_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Max Smith",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-self",
+      "attribution": "Max Smith / Japanese Type 90 Tank - 1.jpg / Public domain",
+      "identifiedAs": "Type 90 JGSDF — Ordnance School",
+      "checkedAt": "2026-10-30",
+      "description": "A Japanese Type 90 Main Battle Tank at the JGSDF Ordnance School in Tsuchiura, Kanto, Japan.",
+      "sourceCredit": "Self-photographed",
+      "changes": "Ridimensionamento e conversione WebP ottimizzata; nessun ritaglio aggiuntivo. Le fotografie CC BY-SA restano distribuite con la medesima licenza indicata.",
+      "illustrative": false,
+      "verification": "Identificazione della fonte e fotografia esaminate; la scheda usa la famiglia o il modello indicato, senza attribuire sottovarianti diverse."
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "altay",
+    "group": "tank",
+    "identity": {
+      "name": "Altay",
+      "origin": "Turchia",
+      "manufacturer": "BMC",
+      "role": "Carro da combattimento",
+      "description": "Carro da combattimento. Capacità rappresentate in forma astratta.",
+      "variant": "",
+      "navalClass": null
+    },
+    "game": {
+      "price": 60,
+      "power": 24,
+      "maintenance": 0.214,
+      "deliverySeconds": 22,
+      "effectiveness": 65,
+      "resistance": 77,
+      "mobility": 48,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.bmc.com.tr/savunma-sanayi/altay",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/ground-altay.webp",
+      "thumbnail": "/photos/ground-altay-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Altay_Tank.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Altay_Tank.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Emir GEÇİR",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attribution": "Emir GEÇİR / Altay Tank.jpg / CC0",
+      "identifiedAs": "Altay — dimostratore in esposizione",
+      "checkedAt": "2026-10-30",
+      "description": "An image shot from the front left side of the Altay Tank",
+      "sourceCredit": "Own work",
+      "changes": "Ridimensionamento e conversione WebP ottimizzata; nessun ritaglio aggiuntivo. Le fotografie CC BY-SA restano distribuite con la medesima licenza indicata.",
+      "illustrative": false,
+      "verification": "Identificazione della fonte e fotografia esaminate; la scheda usa la famiglia o il modello indicato, senza attribuire sottovarianti diverse."
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "arjun",
+    "group": "tank",
+    "identity": {
+      "name": "Arjun Mk1A",
+      "origin": "India",
+      "manufacturer": "Heavy Vehicles Factory / AVNL",
+      "role": "Carro da combattimento",
+      "description": "Carro da combattimento. Capacità rappresentate in forma astratta.",
+      "variant": "Mk1A",
+      "navalClass": null
+    },
+    "game": {
+      "price": 65,
+      "power": 25,
+      "maintenance": 0.22,
+      "deliverySeconds": 20,
+      "effectiveness": 70,
+      "resistance": 81,
+      "mobility": 52,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.drdo.gov.in/drdo/sites/default/files/drdo-news-documents/NPC01to03Oct2022.pdf",
+      "checkedAt": "2026-10-30",
+      "status": "verifica parziale",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": [
+        "Conferma puntuale di produttore, origine e configurazione"
+      ]
+    },
+    "photo": {
+      "src": "/photos/ground-arjun.webp",
+      "thumbnail": "/photos/ground-arjun-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Arjun_MK1A_field_trials.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Arjun_MK1A_field_trials.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "w:Defence Research and Development Organisation",
+      "license": "GODL-India",
+      "licenseUrl": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+      "attribution": "w:Defence Research and Development Organisation / Arjun MK1A field trials.jpg / GODL-India",
+      "identifiedAs": "Arjun MBT Mk IA (Mk1A) — fotografia DRDO durante prove sul campo",
+      "checkedAt": "2026-10-30",
+      "description": "Arjun  MBT Mk IA tank",
+      "sourceCredit": "https://www.drdo.gov.in/arjun-mbt-mk-ia \n \n   https://static.pib.gov.in/WriteReadData/userfiles/image/PIC4M19N.jpg",
+      "changes": "Ridimensionamento e conversione WebP ottimizzata; nessun ritaglio aggiuntivo. Le fotografie CC BY-SA restano distribuite con la medesima licenza indicata.",
+      "illustrative": false,
+      "verification": "Fotografia reale DRDO; variante Mk IA esplicitamente identificata dalla fonte. Riutilizzo GODL-India con attribuzione."
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "k1",
+    "group": "tank",
+    "identity": {
+      "name": "K1",
+      "origin": "Corea del Sud",
+      "manufacturer": "Hyundai Rotem",
+      "role": "Carro da combattimento",
+      "description": "Carro da combattimento. Capacità rappresentate in forma astratta.",
+      "variant": "",
+      "navalClass": null
+    },
+    "game": {
+      "price": 70,
+      "power": 26,
+      "maintenance": 0.226,
+      "deliverySeconds": 22,
+      "effectiveness": 75,
+      "resistance": 85,
+      "mobility": 56,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.hyundai-rotem.co.kr/en/company/history/content.do",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/ground-k1.webp",
+      "thumbnail": "/photos/ground-k1-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Korean_K1_Tank.JPEG",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Korean_K1_Tank.JPEG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "SGT CHRISTOPHER KAUFMANN, USA",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov",
+      "attribution": "SGT CHRISTOPHER KAUFMANN, USA / Korean K1 Tank.JPEG / Public domain",
+      "identifiedAs": "K1 sudcoreano — didascalia U.S. Army",
+      "checkedAt": "2026-10-30",
+      "description": "Republic of Korea (ROK) Army Soldiers, 57th Cavalry Battalion (BN), 26th Division, sit on top of the a K1 Main Battle Tank (MBT) as they wait to load it onto a railcar at Camp Casey, Gyeonggi-do Province, Republic of Korea (KOR), in preparation for a Reception, Staging, Onward movement and Integration (RSO&I) field training exercise.",
+      "sourceCredit": "Defenseimagery.mil, VIRIN  060324-A-9930K-009",
+      "changes": "Ridimensionamento e conversione WebP ottimizzata; nessun ritaglio aggiuntivo. Le fotografie CC BY-SA restano distribuite con la medesima licenza indicata.",
+      "illustrative": false,
+      "verification": "Identificazione della fonte e fotografia esaminate; la scheda usa la famiglia o il modello indicato, senza attribuire sottovarianti diverse."
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "chieftain",
+    "group": "tank",
+    "identity": {
+      "name": "Chieftain",
+      "origin": "Regno Unito",
+      "manufacturer": "Royal Ordnance Factories",
+      "role": "Carro da combattimento",
+      "description": "Carro da combattimento. Modello storico disponibile come scelta di gioco.",
+      "variant": "",
+      "navalClass": null
+    },
+    "game": {
+      "price": 75,
+      "power": 27,
+      "maintenance": 0.232,
+      "deliverySeconds": 24,
+      "effectiveness": 80,
+      "resistance": 65,
+      "mobility": 60,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://tankmuseum.org/article/replacing-the-chieftain",
+      "checkedAt": "2026-10-30",
+      "status": "verifica parziale",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": [
+        "Conferma puntuale di produttore, origine e configurazione"
+      ]
+    },
+    "photo": {
+      "src": "/photos/ground-chieftain.webp",
+      "thumbnail": "/photos/ground-chieftain-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Chieftain_lesany.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Chieftain_lesany.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Adamicz",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "Adamicz / Chieftain lesany.jpg / CC BY-SA 3.0",
+      "identifiedAs": "Chieftain ex giordano — Lešany Tank Day",
+      "checkedAt": "2026-10-30",
+      "description": "Former Jordanian tank Chieftain during 8th 'Tank Day' in Military Technical Museum in Lešany.",
+      "sourceCredit": "Own work",
+      "changes": "Ridimensionamento e conversione WebP ottimizzata; nessun ritaglio aggiuntivo. Le fotografie CC BY-SA restano distribuite con la medesima licenza indicata.",
+      "illustrative": false,
+      "verification": "Identificazione della fonte e fotografia esaminate; la scheda usa la famiglia o il modello indicato, senza attribuire sottovarianti diverse."
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "centurion",
+    "group": "tank",
+    "identity": {
+      "name": "Centurion Mk 3",
+      "origin": "Regno Unito",
+      "manufacturer": "Royal Ordnance Factories / Vickers",
+      "role": "Carro da combattimento",
+      "description": "Carro da combattimento. Modello storico disponibile come scelta di gioco.",
+      "variant": "Mk 3",
+      "navalClass": null
+    },
+    "game": {
+      "price": 80,
+      "power": 28,
+      "maintenance": 0.238,
+      "deliverySeconds": 26,
+      "effectiveness": 85,
+      "resistance": 69,
+      "mobility": 64,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://tankmuseum.org/tank-nuts/tank-collection/centurion",
+      "checkedAt": "2026-10-30",
+      "status": "verifica parziale",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": [
+        "Conferma puntuale di produttore, origine e configurazione"
+      ]
+    },
+    "photo": {
+      "src": "/photos/ground-centurion.webp",
+      "thumbnail": "/photos/ground-centurion-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Centurion_Mk_III_pic02.JPG",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/18/Centurion_Mk_III_pic02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Alf van Beem",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attribution": "Alf van Beem / Centurion Mk III pic02.JPG / CC0",
+      "identifiedAs": "Centurion Mk III — Thun, Svizzera; fotografia Alf van Beem",
+      "checkedAt": "2026-10-30",
+      "description": "Photographed at the army base Thun, Switserland.",
+      "sourceCredit": "Own work",
+      "changes": "Ridimensionamento e conversione WebP ottimizzata; nessun ritaglio aggiuntivo. Le fotografie CC BY-SA restano distribuite con la medesima licenza indicata.",
+      "illustrative": false,
+      "verification": "Identificazione della fonte e fotografia esaminate; la scheda usa la famiglia o il modello indicato, senza attribuire sottovarianti diverse."
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "challenger1",
+    "group": "tank",
+    "identity": {
+      "name": "Challenger 1",
+      "origin": "Regno Unito",
+      "manufacturer": "Royal Ordnance Factories",
+      "role": "Carro da combattimento",
+      "description": "Carro da combattimento. Modello storico disponibile come scelta di gioco.",
+      "variant": "1",
+      "navalClass": null
+    },
+    "game": {
+      "price": 50,
+      "power": 22,
+      "maintenance": 0.202,
+      "deliverySeconds": 26,
+      "effectiveness": 55,
+      "resistance": 73,
+      "mobility": 40,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://tankmuseum.org/article/tankfest-stars-2026",
+      "checkedAt": "2026-10-30",
+      "status": "verifica parziale",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": [
+        "Conferma puntuale di produttore, origine e configurazione"
+      ]
+    },
+    "photo": {
+      "src": "/photos/ground-challenger1.webp",
+      "thumbnail": "/photos/ground-challenger1-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:A_Challenger_1_tank_during_the_Gulf_War.JPEG",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/bd/A_Challenger_1_tank_during_the_Gulf_War.JPEG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "PHC HOLMES",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov",
+      "attribution": "PHC HOLMES / A Challenger 1 tank during the Gulf War.JPEG / Public domain",
+      "identifiedAs": "Challenger 1 britannico — Operation Desert Storm",
+      "checkedAt": "2026-10-30",
+      "description": "A British Challenger 1 main battle tank moves along with other Allied armor during Operation Desert Storm.",
+      "sourceCredit": "Still Asset Details for DNST9207988",
+      "changes": "Ridimensionamento e conversione WebP ottimizzata; nessun ritaglio aggiuntivo. Le fotografie CC BY-SA restano distribuite con la medesima licenza indicata.",
+      "illustrative": false,
+      "verification": "Identificazione della fonte e fotografia esaminate; la scheda usa la famiglia o il modello indicato, senza attribuire sottovarianti diverse."
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "f16",
+    "group": "air",
+    "identity": {
+      "name": "F-16 Block 70",
+      "origin": "Stati Uniti",
+      "manufacturer": "Lockheed Martin",
+      "role": "Caccia multiruolo",
+      "description": "Caccia multiruolo. Capacità rappresentate in forma astratta.",
+      "variant": "Block 70",
+      "navalClass": null
+    },
+    "game": {
+      "price": 90,
+      "power": 35,
+      "maintenance": 0.32,
+      "deliverySeconds": 25,
+      "effectiveness": 88,
+      "resistance": 45,
+      "mobility": 95,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.lockheedmartin.com/en-us/products/f-16.html",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/f16.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:230328-F-NE299-1001.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d4/230328-F-NE299-1001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "412th Test Wing Public Affairs, United States Air Force (USAF)",
+      "license": "Pubblico dominio — opera del governo federale USA",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov",
+      "attribution": "412th Test Wing Public Affairs / U.S. Air Force",
+      "identifiedAs": "F-16 Block 70 del Bahrain, Edwards AFB, 28 marzo 2023",
+      "checkedAt": "2026-10-30",
+      "description": "The first Royal Bahraini F-16 Block 70 lands at Edwards Air Force Base, California, March 28. The 412th Test Wing's 416th Flight Test Squadron will conduct Flight Tests on the Aircraft before delivery to the Bahrain Defence Force",
+      "changes": "Ridimensionamento e conversione WebP; nessuna alterazione del soggetto",
+      "endorsement": "Nessuna approvazione o affiliazione del Dipartimento della Difesa statunitense.",
+      "thumbnail": "/photos/f16-thumb.webp"
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "f35",
+    "group": "air",
+    "identity": {
+      "name": "F-35A Lightning II",
+      "origin": "Stati Uniti",
+      "manufacturer": "Lockheed Martin",
+      "role": "Caccia multiruolo",
+      "description": "Caccia multiruolo. Capacità rappresentate in forma astratta.",
+      "variant": "A",
+      "navalClass": null
+    },
+    "game": {
+      "price": 80,
+      "power": 33,
+      "maintenance": 0.308,
+      "deliverySeconds": 29,
+      "effectiveness": 60,
+      "resistance": 39,
+      "mobility": 69,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.f35.com/f35/news-and-features/The-ABCs-of-F-35.html",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/airsea-f35.webp",
+      "thumbnail": "/photos/airsea-f35-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:F-35_Heritage_Flight_Team_performs_in_Bell_Fort_Worth_Alliance_AirShow.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/6d/F-35_Heritage_Flight_Team_performs_in_Bell_Fort_Worth_Alliance_AirShow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Airman 1st Class Alexander Cook",
+      "license": "Pubblico dominio",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov",
+      "attribution": "Airman 1st Class Alexander Cook / pubblico dominio",
+      "identifiedAs": "Capt. Andrew “Dojo” Olson, F-35 Heritage Flight Team pilot and commander performs a vertical climb in an F-35A Lightning II during the Bell Fort Worth Alliance Air Show Oct. 14, 2018, in Fort Worth, Texas. The F-35A Lightning II’s F-135 single engine produces 43,000 pounds of thrust. (U.S. Air Force photo by Senior Airman Alexander Cook).",
+      "checkedAt": "2026-10-30",
+      "description": "Capt. Andrew “Dojo” Olson, F-35 Heritage Flight Team pilot and commander performs a vertical climb in an F-35A Lightning II during the Bell Fort Worth Alliance Air Show Oct. 14, 2018, in Fort Worth, Texas. The F-35A Lightning II’s F-135 single engine produces 43,000 pounds of thrust. (U.S. Air Force photo by Senior Airman Alexander Cook).",
+      "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio aggiunto o alterazione del soggetto.",
+      "sourceTitle": "File:F-35 Heritage Flight Team performs in Bell Fort Worth Alliance AirShow.jpg",
+      "verification": "Identificazione e licenza verificate nei metadati Commons; fotografia controllata visivamente il 30 ottobre 2026.",
+      "illustrative": false
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "f15",
+    "group": "air",
+    "identity": {
+      "name": "F-15EX Eagle II",
+      "origin": "Stati Uniti",
+      "manufacturer": "Boeing",
+      "role": "Superiorità aerea",
+      "description": "Superiorità aerea. Capacità rappresentate in forma astratta.",
+      "variant": "EX",
+      "navalClass": null
+    },
+    "game": {
+      "price": 85,
+      "power": 34,
+      "maintenance": 0.314,
+      "deliverySeconds": 27,
+      "effectiveness": 65,
+      "resistance": 43,
+      "mobility": 73,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.boeing.com/defense/fighters-and-bombers/f-15ex-eagle",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/airsea-f15.webp",
+      "thumbnail": "/photos/airsea-f15-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:The_first_F-15EX_of_USAF.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c9/The_first_F-15EX_of_USAF.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Ilka Cole",
+      "license": "Pubblico dominio",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov",
+      "attribution": "Ilka Cole / pubblico dominio",
+      "identifiedAs": "The F-15EX, the Air Force’s newest fighter aircraft, arrives to Eglin Air Force Base, Florida March 11.  The aircraft will be the first Air Force aircraft to be tested and fielded from beginning to end through combined developmental and operational tests.  The 40th Flight Test Squadron and the 85th Test and Evaluation Squadron personnel are responsible for testing the aircraft.  (U.S. Air Force photo/Ilka Cole)",
+      "checkedAt": "2026-10-30",
+      "description": "The F-15EX, the Air Force’s newest fighter aircraft, arrives to Eglin Air Force Base, Florida March 11.  The aircraft will be the first Air Force aircraft to be tested and fielded from beginning to end through combined developmental and operational tests.  The 40th Flight Test Squadron and the 85th Test and Evaluation Squadron personnel are responsible for testing the aircraft.  (U.S. Air Force photo/Ilka Cole)",
+      "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio aggiunto o alterazione del soggetto.",
+      "sourceTitle": "File:The first F-15EX of USAF.jpg",
+      "verification": "Identificazione e licenza verificate nei metadati Commons; fotografia controllata visivamente il 30 ottobre 2026.",
+      "illustrative": false
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "typhoon",
+    "group": "air",
+    "identity": {
+      "name": "Eurofighter Typhoon",
+      "origin": "Regno Unito / Germania / Italia / Spagna",
+      "manufacturer": "Eurofighter / Airbus / BAE Systems / Leonardo",
+      "role": "Caccia multiruolo",
+      "description": "Caccia multiruolo. Capacità rappresentate in forma astratta.",
+      "variant": "",
+      "navalClass": null
+    },
+    "game": {
+      "price": 90,
+      "power": 35,
+      "maintenance": 0.32,
+      "deliverySeconds": 25,
+      "effectiveness": 70,
+      "resistance": 47,
+      "mobility": 77,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.eurofighter.com/the-programme",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/airsea-typhoon.webp",
+      "thumbnail": "/photos/airsea-typhoon-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Eurofighter_Typhoon_Italian_Air_Force.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Eurofighter_Typhoon_Italian_Air_Force.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "TunaFish Spotting",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "TunaFish Spotting / CC BY-SA 4.0",
+      "identifiedAs": "Eurofighter Typhoon från italienska flygvapnet.",
+      "checkedAt": "2026-10-30",
+      "description": "Eurofighter Typhoon från italienska flygvapnet.",
+      "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio aggiunto o alterazione del soggetto.",
+      "sourceTitle": "File:Eurofighter Typhoon Italian Air Force.jpg",
+      "verification": "Identificazione e licenza verificate nei metadati Commons; fotografia controllata visivamente il 30 ottobre 2026.",
+      "illustrative": false
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "rafale",
+    "group": "air",
+    "identity": {
+      "name": "Rafale C",
+      "origin": "Francia",
+      "manufacturer": "Dassault Aviation",
+      "role": "Caccia multiruolo",
+      "description": "Caccia multiruolo. Capacità rappresentate in forma astratta.",
+      "variant": "C",
+      "navalClass": null
+    },
+    "game": {
+      "price": 95,
+      "power": 36,
+      "maintenance": 0.326,
+      "deliverySeconds": 27,
+      "effectiveness": 75,
+      "resistance": 51,
+      "mobility": 81,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.dassault-aviation.com/en/defense/rafale/design-and-optimise/",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/airsea-rafale.webp",
+      "thumbnail": "/photos/airsea-rafale-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Arm%C3%A9e_de_l%27Air_Rafale_C.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/88/Arm%C3%A9e_de_l%27Air_Rafale_C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "KGyST",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "attribution": "KGyST / CC BY 3.0",
+      "identifiedAs": "Armée de l'Air (French Air Force) Rafale C '113-IY' at Kecskeméti Nemzetközi Repülőnap 2010 flown by capitain Cédric 'Rut' Ruet.",
+      "checkedAt": "2026-10-30",
+      "description": "Armée de l'Air (French Air Force) Rafale C '113-IY' at Kecskeméti Nemzetközi Repülőnap 2010 flown by capitain Cédric 'Rut' Ruet.",
+      "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio aggiunto o alterazione del soggetto.",
+      "sourceTitle": "File:Armée de l'Air Rafale C.jpg",
+      "verification": "Identificazione e licenza verificate nei metadati Commons; fotografia controllata visivamente il 30 ottobre 2026.",
+      "illustrative": false
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "gripen",
+    "group": "air",
+    "identity": {
+      "name": "Gripen E",
+      "origin": "Svezia",
+      "manufacturer": "Saab",
+      "role": "Caccia multiruolo",
+      "description": "Caccia multiruolo. Capacità rappresentate in forma astratta.",
+      "variant": "E",
+      "navalClass": null
+    },
+    "game": {
+      "price": 100,
+      "power": 37,
+      "maintenance": 0.332,
+      "deliverySeconds": 29,
+      "effectiveness": 80,
+      "resistance": 55,
+      "mobility": 85,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.saab.com/products/gripen-e-series",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/airsea-gripen.webp",
+      "thumbnail": "/photos/airsea-gripen-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Brazilian_Saab_Gripen_E.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Brazilian_Saab_Gripen_E.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "SO Johnson",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "attribution": "SO Johnson / CC BY-SA 2.5",
+      "identifiedAs": "Front view of Brazil's Saab F-39E Gripen",
+      "checkedAt": "2026-10-30",
+      "description": "Front view of Brazil's Saab F-39E Gripen",
+      "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio aggiunto o alterazione del soggetto.",
+      "sourceTitle": "File:Brazilian Saab Gripen E.jpg",
+      "verification": "Identificazione e licenza verificate nei metadati Commons; fotografia controllata visivamente il 30 ottobre 2026.",
+      "illustrative": false
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "su35",
+    "group": "air",
+    "identity": {
+      "name": "Su-35S",
+      "origin": "Russia",
+      "manufacturer": "Sukhoi / UAC",
+      "role": "Superiorità aerea",
+      "description": "Superiorità aerea. Capacità rappresentate in forma astratta.",
+      "variant": "S",
+      "navalClass": null
+    },
+    "game": {
+      "price": 105,
+      "power": 38,
+      "maintenance": 0.338,
+      "deliverySeconds": 31,
+      "effectiveness": 85,
+      "resistance": 35,
+      "mobility": 89,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://uacrussia.ru/en/aircraft/lineup/military/su-35/",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/airsea-su35.webp",
+      "thumbnail": "/photos/airsea-su35-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Su-35S_of_the_Russian_Air_Force.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Su-35S_of_the_Russian_Air_Force.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Flymouth1894",
+      "license": "Pubblico dominio",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-self",
+      "attribution": "Flymouth1894 / pubblico dominio",
+      "identifiedAs": "Su-35S of Russian Air Force",
+      "checkedAt": "2026-10-30",
+      "description": "Su-35S of Russian Air Force",
+      "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio aggiunto o alterazione del soggetto.",
+      "sourceTitle": "File:Su-35S of the Russian Air Force.jpg",
+      "verification": "Identificazione e licenza verificate nei metadati Commons; fotografia controllata visivamente il 30 ottobre 2026.",
+      "illustrative": false
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "f22",
+    "group": "air",
+    "identity": {
+      "name": "F-22 Raptor",
+      "origin": "Stati Uniti",
+      "manufacturer": "Lockheed Martin / Boeing",
+      "role": "Superiorità aerea",
+      "description": "Superiorità aerea. Capacità rappresentate in forma astratta.",
+      "variant": "",
+      "navalClass": null
+    },
+    "game": {
+      "price": 75,
+      "power": 32,
+      "maintenance": 0.302,
+      "deliverySeconds": 31,
+      "effectiveness": 55,
+      "resistance": 39,
+      "mobility": 65,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.af.mil/About-Us/Fact-Sheets/Article/2382275/air-force-materiel-command/",
+      "checkedAt": "2026-10-30",
+      "status": "verifica parziale",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": [
+        "Conferma puntuale di produttore, origine e configurazione"
+      ]
+    },
+    "photo": {
+      "src": "/photos/airsea-f22.webp",
+      "thumbnail": "/photos/airsea-f22-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:F-22_Raptor.JPG",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b6/F-22_Raptor.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Master Sgt. Andy Dunaway",
+      "license": "Pubblico dominio",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov",
+      "attribution": "Master Sgt. Andy Dunaway / pubblico dominio",
+      "identifiedAs": "An F-22 Raptor flies over Kadena Air Base, Japan, Jan. 23 on a routine training mission. The F-22 is deployed from the 27th Fighter Squadron at Langley Air Force Base, Va.",
+      "checkedAt": "2026-10-30",
+      "description": "An F-22 Raptor flies over Kadena Air Base, Japan, Jan. 23 on a routine training mission. The F-22 is deployed from the 27th Fighter Squadron at Langley Air Force Base, Va.",
+      "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio aggiunto o alterazione del soggetto.",
+      "sourceTitle": "File:F-22 Raptor.JPG",
+      "verification": "Identificazione e licenza verificate nei metadati Commons; fotografia controllata visivamente il 30 ottobre 2026.",
+      "illustrative": false
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "superhornet",
+    "group": "air",
+    "identity": {
+      "name": "F/A-18E Super Hornet",
+      "origin": "Stati Uniti",
+      "manufacturer": "Boeing",
+      "role": "Caccia imbarcato",
+      "description": "Caccia imbarcato. Capacità rappresentate in forma astratta.",
+      "variant": "E",
+      "navalClass": null
+    },
+    "game": {
+      "price": 80,
+      "power": 33,
+      "maintenance": 0.308,
+      "deliverySeconds": 29,
+      "effectiveness": 60,
+      "resistance": 43,
+      "mobility": 69,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.boeing.com/defense/fighters-and-bombers",
+      "checkedAt": "2026-10-30",
+      "status": "verifica parziale",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": [
+        "Conferma puntuale di produttore, origine e configurazione"
+      ]
+    },
+    "photo": {
+      "src": "/photos/airsea-superhornet.webp",
+      "thumbnail": "/photos/airsea-superhornet-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:F_A-18E_Super_Hornet_aircraft.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f6/F_A-18E_Super_Hornet_aircraft.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Petty Officer 1st Class David Mercil, U.S. Navy",
+      "license": "Pubblico dominio",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov",
+      "attribution": "Petty Officer 1st Class David Mercil, U.S. Navy / pubblico dominio",
+      "identifiedAs": "A U.S. Navy F/A-18E Super Hornet aircraft assigned to Strike Fighter Squadron 14 sits tied-down on the flight deck of the aircraft carrier USS Nimitz (CVN 68) while underway in the North Arabian Sea on Dec. 18, 2009. The Nimitz Carrier Strike Group is on deployment to the U.S. 5th Fleet area of operations.",
+      "checkedAt": "2026-10-30",
+      "description": "A U.S. Navy F/A-18E Super Hornet aircraft assigned to Strike Fighter Squadron 14 sits tied-down on the flight deck of the aircraft carrier USS Nimitz (CVN 68) while underway in the North Arabian Sea on Dec. 18, 2009. The Nimitz Carrier Strike Group is on deployment to the U.S. 5th Fleet area of operations.",
+      "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio aggiunto o alterazione del soggetto.",
+      "sourceTitle": "File:F A-18E Super Hornet aircraft.jpg",
+      "verification": "Identificazione e licenza verificate nei metadati Commons; fotografia controllata visivamente il 30 ottobre 2026.",
+      "illustrative": false
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "growler",
+    "group": "air",
+    "identity": {
+      "name": "EA-18G Growler",
+      "origin": "Stati Uniti",
+      "manufacturer": "Boeing",
+      "role": "Supporto elettronico",
+      "description": "Supporto elettronico. Capacità rappresentate in forma astratta.",
+      "variant": "G",
+      "navalClass": null
+    },
+    "game": {
+      "price": 85,
+      "power": 34,
+      "maintenance": 0.314,
+      "deliverySeconds": 27,
+      "effectiveness": 65,
+      "resistance": 47,
+      "mobility": 73,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.boeing.com/defense/fighters-and-bombers",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/airsea-growler.webp",
+      "thumbnail": "/photos/airsea-growler-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:EA-18G_Growler_on_USS_Nimitz.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/37/EA-18G_Growler_on_USS_Nimitz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Mass Communication Specialist 3rd Class Joseph Calabrese",
+      "license": "Pubblico dominio",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov",
+      "attribution": "Mass Communication Specialist 3rd Class Joseph Calabrese / pubblico dominio",
+      "identifiedAs": "An E/A-18G Growler from the “Cougars” of Electronic Attack Squadron (VAQ) 139 launches from the flight deck of the aircraft carrier USS Nimitz (CVN 68). Nimitz is in U.S. 7th Fleet conducting routine operations. 7th Fleet is the U.S. Navy's largest forward-deployed numbered fleet, and routinely interacts and operates with Allies and partners in preserving a free and open Indo-Pacific region. (U.S. Navy photo by Mass Communication Specialist 3rd Class Joseph Calabrese)",
+      "checkedAt": "2026-10-30",
+      "description": "An E/A-18G Growler from the “Cougars” of Electronic Attack Squadron (VAQ) 139 launches from the flight deck of the aircraft carrier USS Nimitz (CVN 68). Nimitz is in U.S. 7th Fleet conducting routine operations. 7th Fleet is the U.S. Navy's largest forward-deployed numbered fleet, and routinely interacts and operates with Allies and partners in preserving a free and open Indo-Pacific region. (U.S. Navy photo by Mass Communication Specialist 3rd Class Joseph Calabrese)",
+      "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio aggiunto o alterazione del soggetto.",
+      "sourceTitle": "File:EA-18G Growler on USS Nimitz.jpg",
+      "verification": "Identificazione e licenza verificate nei metadati Commons; fotografia controllata visivamente il 30 ottobre 2026.",
+      "illustrative": false
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "a10",
+    "group": "air",
+    "identity": {
+      "name": "A-10 Thunderbolt II",
+      "origin": "Stati Uniti",
+      "manufacturer": "Fairchild Republic",
+      "role": "Supporto terrestre",
+      "description": "Supporto terrestre. Capacità rappresentate in forma astratta.",
+      "variant": "",
+      "navalClass": null
+    },
+    "game": {
+      "price": 90,
+      "power": 35,
+      "maintenance": 0.32,
+      "deliverySeconds": 25,
+      "effectiveness": 70,
+      "resistance": 51,
+      "mobility": 77,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.af.mil/About-Us/Fact-Sheets/Article/2382275/air-force-materiel-command/",
+      "checkedAt": "2026-10-30",
+      "status": "verifica parziale",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": [
+        "Conferma puntuale di produttore, origine e configurazione"
+      ]
+    },
+    "photo": {
+      "src": "/photos/airsea-a10.webp",
+      "thumbnail": "/photos/airsea-a10-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:A-10_Thunderbolt_II.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7e/A-10_Thunderbolt_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Chief Master Sgt. David L. Stuppy",
+      "license": "Pubblico dominio",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov",
+      "attribution": "Chief Master Sgt. David L. Stuppy / pubblico dominio",
+      "identifiedAs": "BAGRAM AIR BASE, Afghanistan -- An A-10 Thunderbolt II takes off on a combat mission. Since Sept. 15, A-10s here have flown more than 1,700 sorties in support of Operation Enduring Freedom. The A-10 was the first Air Force aircraft specially designed for close air support of ground forces.",
+      "checkedAt": "2026-10-30",
+      "description": "BAGRAM AIR BASE, Afghanistan -- An A-10 Thunderbolt II takes off on a combat mission. Since Sept. 15, A-10s here have flown more than 1,700 sorties in support of Operation Enduring Freedom. The A-10 was the first Air Force aircraft specially designed for close air support of ground forces.",
+      "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio aggiunto o alterazione del soggetto.",
+      "sourceTitle": "File:A-10 Thunderbolt II.jpg",
+      "verification": "Identificazione e licenza verificate nei metadati Commons; fotografia controllata visivamente il 30 ottobre 2026.",
+      "illustrative": false
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "b52",
+    "group": "air",
+    "identity": {
+      "name": "B-52H Stratofortress",
+      "origin": "Stati Uniti",
+      "manufacturer": "Boeing",
+      "role": "Bombardiere strategico",
+      "description": "Bombardiere pesante a lungo raggio. Nel gioco offre forte supporto offensivo, con costi elevati e bassa furtività. Richiede forze combinate per conquistare.",
+      "variant": "H",
+      "navalClass": null
+    },
+    "game": {
+      "price": 2500,
+      "indicativeCredits": 250000000,
+      "maintenance": 2.5,
+      "deliverySeconds": 180,
+      "power": 90,
+      "effectiveness": 95,
+      "resistance": 60,
+      "mobility": 40,
+      "stealth": 10,
+      "offensiveSupport": 0.18,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104465/b-52h-stratofortress/",
+      "checkedAt": "2026-10-30",
+      "status": "nome, variante, produttore e ruolo documentati",
+      "scope": "Identità e ruolo dalla scheda ufficiale USAF. Tutti i prezzi, requisiti, tempi, bonus e indici sono inventati per il gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/strategic-b52.webp",
+      "thumbnail": "/photos/strategic-b52-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:B-52H_Stratofortress_60-0024_Oct._14,_2019.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e1/B-52H_Stratofortress_60-0024_Oct._14%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Senior Airman Stuart Bright",
+      "license": "Pubblico dominio — opera del governo federale USA",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov-Military-Air_Force",
+      "attribution": "Senior Airman Stuart Bright / U.S. Air Force",
+      "identifiedAs": "B-52H Stratofortress, matricola 60-0024, RAF Fairford, 14 ottobre 2019",
+      "checkedAt": "2026-10-30",
+      "description": "A B-52H Stratofortress, deployed from Barksdale Air Force Base, La., takes off from RAF Fairford, United Kingdom, Oct. 14, 2019. The B-52s and Airmen from the 2nd Bomb Wing deployed to improve interoperability with the United States’ joint partners and allied nations and to conduct European theater integration. (U.S. Air Force photo by Senior Airman Stuart Bright)",
+      "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio o alterazione del soggetto.",
+      "illustrative": false,
+      "endorsement": "Nessuna approvazione o affiliazione del Dipartimento della Difesa statunitense.",
+      "verification": "Variante/modello indicato nella didascalia istituzionale; metadati Commons PD-USGov e fotografia controllati visivamente il 30 ottobre 2026."
+    },
+    "photoStatus": "Fotografia verificata",
+    "subcategory": "Bombardieri strategici",
+    "requirements": {
+      "researchLevel": 4,
+      "label": "Ricerca aeronautica avanzata"
+    }
+  },
+  {
+    "id": "b1",
+    "group": "air",
+    "identity": {
+      "name": "B-1 Lancer",
+      "origin": "Stati Uniti",
+      "manufacturer": "Rockwell / Boeing",
+      "role": "Bombardiere",
+      "description": "Bombardiere. Capacità rappresentate in forma astratta.",
+      "variant": "",
+      "navalClass": null
+    },
+    "game": {
+      "price": 100,
+      "power": 37,
+      "maintenance": 0.332,
+      "deliverySeconds": 29,
+      "effectiveness": 80,
+      "resistance": 35,
+      "mobility": 85,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.af.mil/About-Us/Fact-Sheets/Article/2382275/air-force-materiel-command/",
+      "checkedAt": "2026-10-30",
+      "status": "verifica parziale",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": [
+        "Conferma puntuale di produttore, origine e configurazione"
+      ]
+    },
+    "photo": {
+      "src": "/photos/airsea-b1.webp",
+      "thumbnail": "/photos/airsea-b1-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:B-1_Lancer_in_flight.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4b/B-1_Lancer_in_flight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "U.S. Air Force",
+      "license": "Pubblico dominio",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov",
+      "attribution": "U.S. Air Force / pubblico dominio",
+      "identifiedAs": "A U.S. Air Force B-1 Lancer flies over an undisclosed location Nov. 5, 2023.  The aircraft was part of a Bomber Task Force mission which supports and affirms the United States' commitment to regional security and the collective capabilities of military partners in the region, demonstrating the ability to inject overwhelming combat power into the U.S. Central Command area of responsibility. (U.S. Air Force courtesy photo)",
+      "checkedAt": "2026-10-30",
+      "description": "A U.S. Air Force B-1 Lancer flies over an undisclosed location Nov. 5, 2023.  The aircraft was part of a Bomber Task Force mission which supports and affirms the United States' commitment to regional security and the collective capabilities of military partners in the region, demonstrating the ability to inject overwhelming combat power into the U.S. Central Command area of responsibility. (U.S. Air Force courtesy photo)",
+      "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio aggiunto o alterazione del soggetto.",
+      "sourceTitle": "File:B-1 Lancer in flight.jpg",
+      "verification": "Identificazione e licenza verificate nei metadati Commons; fotografia controllata visivamente il 30 ottobre 2026.",
+      "illustrative": false
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "c130",
+    "group": "air",
+    "identity": {
+      "name": "C-130J Super Hercules",
+      "origin": "Stati Uniti",
+      "manufacturer": "Lockheed Martin",
+      "role": "Trasporto militare",
+      "description": "Trasporto militare. Capacità rappresentate in forma astratta.",
+      "variant": "J",
+      "navalClass": null
+    },
+    "game": {
+      "price": 105,
+      "power": 38,
+      "maintenance": 0.338,
+      "deliverySeconds": 31,
+      "effectiveness": 85,
+      "resistance": 39,
+      "mobility": 89,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://lockheedmartin.com/en-us/capabilities/aircraft.html",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/airsea-c130.webp",
+      "thumbnail": "/photos/airsea-c130-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:20180512_C-130J_Super_Hercules_Dyess_AFB_Air_Show_2018_22.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/97/20180512_C-130J_Super_Hercules_Dyess_AFB_Air_Show_2018_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Balon Greyjoy",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attribution": "Balon Greyjoy / CC0",
+      "identifiedAs": "C-130J Super Hercules at the Dyess AFB Air Show in May 2018.",
+      "checkedAt": "2026-10-30",
+      "description": "C-130J Super Hercules at the Dyess AFB Air Show in May 2018.",
+      "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio aggiunto o alterazione del soggetto.",
+      "sourceTitle": "File:20180512 C-130J Super Hercules Dyess AFB Air Show 2018 22.jpg",
+      "verification": "Identificazione e licenza verificate nei metadati Commons; fotografia controllata visivamente il 30 ottobre 2026.",
+      "illustrative": false
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "c17",
+    "group": "air",
+    "identity": {
+      "name": "C-17 Globemaster III",
+      "origin": "Stati Uniti",
+      "manufacturer": "McDonnell Douglas / Boeing",
+      "role": "Trasporto militare",
+      "description": "Trasporto militare. Capacità rappresentate in forma astratta.",
+      "variant": "",
+      "navalClass": null
+    },
+    "game": {
+      "price": 75,
+      "power": 32,
+      "maintenance": 0.302,
+      "deliverySeconds": 31,
+      "effectiveness": 55,
+      "resistance": 43,
+      "mobility": 65,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.af.mil/About-Us/Fact-Sheets/Article/2382275/air-force-materiel-command/",
+      "checkedAt": "2026-10-30",
+      "status": "verifica parziale",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": [
+        "Conferma puntuale di produttore, origine e configurazione"
+      ]
+    },
+    "photo": {
+      "src": "/photos/airsea-c17.webp",
+      "thumbnail": "/photos/airsea-c17-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:20190327_C-17_Globemaster_Tail_10-0218_Kadena_AB-37.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a7/20190327_C-17_Globemaster_Tail_10-0218_Kadena_AB-37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Balon Greyjoy",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attribution": "Balon Greyjoy / CC0",
+      "identifiedAs": "A Boeing C-17 Globemaster III, tail number 10-0218, on final approach at Kadena Air Base in Okinawa, Japan. This aircraft is assigned to the 62nd Airlift Wing and the 446th Airlift Wing at Joint Base Lewis-McChord in Tacoma, Washington.",
+      "checkedAt": "2026-10-30",
+      "description": "A Boeing C-17 Globemaster III, tail number 10-0218, on final approach at Kadena Air Base in Okinawa, Japan. This aircraft is assigned to the 62nd Airlift Wing and the 446th Airlift Wing at Joint Base Lewis-McChord in Tacoma, Washington.",
+      "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio aggiunto o alterazione del soggetto.",
+      "sourceTitle": "File:20190327 C-17 Globemaster Tail 10-0218 Kadena AB-37.jpg",
+      "verification": "Identificazione e licenza verificate nei metadati Commons; fotografia controllata visivamente il 30 ottobre 2026.",
+      "illustrative": false
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "a400",
+    "group": "air",
+    "identity": {
+      "name": "A400M Atlas",
+      "origin": "Europa",
+      "manufacturer": "Airbus Defence and Space",
+      "role": "Trasporto militare",
+      "description": "Trasporto militare. Capacità rappresentate in forma astratta.",
+      "variant": "",
+      "navalClass": null
+    },
+    "game": {
+      "price": 80,
+      "power": 33,
+      "maintenance": 0.308,
+      "deliverySeconds": 29,
+      "effectiveness": 60,
+      "resistance": 47,
+      "mobility": 69,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.airbus.com/en/products-services/defence/military-aircraft/a400m",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/airsea-a400.webp",
+      "thumbnail": "/photos/airsea-a400-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Airbus_A400M_Atlas_(A400M_Tactical_Display)_at_Air_Legend_2025_(96).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Airbus_A400M_Atlas_%28A400M_Tactical_Display%29_at_Air_Legend_2025_%2896%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Like tears in rain",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Like tears in rain / CC BY-SA 4.0",
+      "identifiedAs": "Airbus A400M Atlas (A400M Tactical Display) at Air Legend 2025.",
+      "checkedAt": "2026-10-30",
+      "description": "Airbus A400M Atlas (A400M Tactical Display) at Air Legend 2025.",
+      "changes": "Ritaglio del solo cielo circostante, preservando il velivolo intero; conversione WebP. Derivato distribuito sotto CC BY-SA 4.0.",
+      "sourceTitle": "File:Airbus A400M Atlas (A400M Tactical Display) at Air Legend 2025 (96).jpg",
+      "verification": "Identificazione e licenza verificate nei metadati Commons; fotografia controllata visivamente il 30 ottobre 2026.",
+      "illustrative": false
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "c295",
+    "group": "air",
+    "identity": {
+      "name": "C295",
+      "origin": "Spagna",
+      "manufacturer": "Airbus / CASA",
+      "role": "Trasporto militare",
+      "description": "Trasporto militare. Capacità rappresentate in forma astratta.",
+      "variant": "",
+      "navalClass": null
+    },
+    "game": {
+      "price": 85,
+      "power": 34,
+      "maintenance": 0.314,
+      "deliverySeconds": 27,
+      "effectiveness": 65,
+      "resistance": 51,
+      "mobility": 73,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.airbus.com/en/products-services/defence/military-aircraft/c295",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/extra-c295.webp",
+      "thumbnail": "/photos/extra-c295-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Airbus_C295_EC-001_ILA-2022.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Airbus_C295_EC-001_ILA-2022.jpg",
+      "author": "Boevaya mashina",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Boevaya mashina / CC BY-SA 3.0",
+      "identifiedAs": "Airbus C295, immatricolazione EC-001, con winglet; ILA Berlin Air Show 2022",
+      "checkedAt": "2026-10-30",
+      "description": "Airbus C295, immatricolazione EC-001, con winglet; ILA Berlin Air Show 2022",
+      "changes": "Ridimensionamento e conversione WebP; proporzioni originali e soggetto conservati, nessun ritaglio. La derivazione fotografica mantiene la licenza indicata.",
+      "illustrative": false,
+      "status": "verified",
+      "width": 960,
+      "height": 640
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "mirage2000",
+    "group": "air",
+    "identity": {
+      "name": "Mirage 2000",
+      "origin": "Francia",
+      "manufacturer": "Dassault Aviation",
+      "role": "Caccia multiruolo",
+      "description": "Caccia multiruolo. Capacità rappresentate in forma astratta.",
+      "variant": "",
+      "navalClass": null
+    },
+    "game": {
+      "price": 90,
+      "power": 35,
+      "maintenance": 0.32,
+      "deliverySeconds": 25,
+      "effectiveness": 70,
+      "resistance": 55,
+      "mobility": 77,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.dassault-aviation.com/en/defense/customer-support/operational-aircraft/",
+      "checkedAt": "2026-10-30",
+      "status": "verifica parziale",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": [
+        "Conferma puntuale di produttore, origine e configurazione"
+      ]
+    },
+    "photo": {
+      "src": "/photos/airsea-mirage2000.webp",
+      "thumbnail": "/photos/airsea-mirage2000-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Mirage_2000C_in-flight.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Mirage_2000C_in-flight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "SRA GREG L. DAVIS, USAF",
+      "license": "Pubblico dominio",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov",
+      "attribution": "SRA GREG L. DAVIS, USAF / pubblico dominio",
+      "identifiedAs": "A French Air Force Mirage 2000C drops away from a United States Air Force KC-135R Stratotanker (not shown) after refueling during a Combat Patrol mission while participating in NATO Operation Allied Force. The KC-135R is based at Royal Air Force Mildenhall, England but is being flown by a crew deployed from the 384th Air Refueling Squadron, McConnell Air Force Base, Kansas. Tankers from RAF Mildenhall make-up a large portion of the tanker forces supporting NATO aircraft during NATO Operation Allied Force.",
+      "checkedAt": "2026-10-30",
+      "description": "A French Air Force Mirage 2000C drops away from a United States Air Force KC-135R Stratotanker (not shown) after refueling during a Combat Patrol mission while participating in NATO Operation Allied Force. The KC-135R is based at Royal Air Force Mildenhall, England but is being flown by a crew deployed from the 384th Air Refueling Squadron, McConnell Air Force Base, Kansas. Tankers from RAF Mildenhall make-up a large portion of the tanker forces supporting NATO aircraft during NATO Operation Allied Force.",
+      "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio aggiunto o alterazione del soggetto.",
+      "sourceTitle": "File:Mirage 2000C in-flight.jpg",
+      "verification": "Identificazione e licenza verificate nei metadati Commons; fotografia controllata visivamente il 30 ottobre 2026.",
+      "illustrative": false
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "miragef1",
+    "group": "air",
+    "identity": {
+      "name": "Mirage F1",
+      "origin": "Francia",
+      "manufacturer": "Dassault Aviation",
+      "role": "Caccia multiruolo",
+      "description": "Caccia multiruolo. Modello storico disponibile come scelta di gioco.",
+      "variant": "",
+      "navalClass": null
+    },
+    "game": {
+      "price": 95,
+      "power": 36,
+      "maintenance": 0.326,
+      "deliverySeconds": 27,
+      "effectiveness": 75,
+      "resistance": 35,
+      "mobility": 81,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.dassault-aviation.com/en/defense/customer-support/operational-aircraft/",
+      "checkedAt": "2026-10-30",
+      "status": "verifica parziale",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": [
+        "Conferma puntuale di produttore, origine e configurazione"
+      ]
+    },
+    "photo": {
+      "src": "/photos/airsea-miragef1.webp",
+      "thumbnail": "/photos/airsea-miragef1-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Mirage_F1_France.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/22/Mirage_F1_France.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "USAF",
+      "license": "Pubblico dominio",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov",
+      "attribution": "USAF / pubblico dominio",
+      "identifiedAs": "An Armée de l'Air (French Air Force) Dassault Mirage F1C from Escadron de chasse 1/5  Vendée  (serial 5-NH) based at Base aérienne 115 Orange-Caritat, Vaucluse, Provence (France). EC 1/5 flew the Mirage F1C from 1975 to 1988.",
+      "checkedAt": "2026-10-30",
+      "description": "An Armée de l'Air (French Air Force) Dassault Mirage F1C from Escadron de chasse 1/5  Vendée  (serial 5-NH) based at Base aérienne 115 Orange-Caritat, Vaucluse, Provence (France). EC 1/5 flew the Mirage F1C from 1975 to 1988.",
+      "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio aggiunto o alterazione del soggetto.",
+      "sourceTitle": "File:Mirage F1 France.jpg",
+      "verification": "Identificazione e licenza verificate nei metadati Commons; fotografia controllata visivamente il 30 ottobre 2026.",
+      "illustrative": false
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "p8",
+    "group": "air",
+    "identity": {
+      "name": "P-8A Poseidon",
+      "origin": "Stati Uniti",
+      "manufacturer": "Boeing",
+      "role": "Pattugliamento marittimo",
+      "description": "Pattugliamento marittimo. Capacità rappresentate in forma astratta.",
+      "variant": "A",
+      "navalClass": null
+    },
+    "game": {
+      "price": 100,
+      "power": 37,
+      "maintenance": 0.332,
+      "deliverySeconds": 29,
+      "effectiveness": 80,
+      "resistance": 39,
+      "mobility": 85,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.boeing.com/content/dam/boeing/boeingdotcom/company/annual-report/2024/2024-annual-report.pdf",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/airsea-p8.webp",
+      "thumbnail": "/photos/airsea-p8-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:P-8A_Poseidon_VX-20_Squadron.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e4/P-8A_Poseidon_VX-20_Squadron.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Greg L. Davis",
+      "license": "Pubblico dominio",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov",
+      "attribution": "Greg L. Davis / pubblico dominio",
+      "identifiedAs": "A P-8A Poseidon assigned to the Bureau of Air Test and Evaluation Squadron (VX) 20 flies over the Chesapeake Bay. VX-20 is part of Naval Test Wing Atlantic.",
+      "checkedAt": "2026-10-30",
+      "description": "A P-8A Poseidon assigned to the Bureau of Air Test and Evaluation Squadron (VX) 20 flies over the Chesapeake Bay. VX-20 is part of Naval Test Wing Atlantic.",
+      "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio aggiunto o alterazione del soggetto.",
+      "sourceTitle": "File:P-8A Poseidon VX-20 Squadron.jpg",
+      "verification": "Identificazione e licenza verificate nei metadati Commons; fotografia controllata visivamente il 30 ottobre 2026.",
+      "illustrative": false
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "burke",
+    "group": "naval",
+    "identity": {
+      "name": "Classe Arleigh Burke",
+      "origin": "Stati Uniti",
+      "manufacturer": "General Dynamics Bath Iron Works / HII Ingalls",
+      "role": "Cacciatorpediniere",
+      "description": "Cacciatorpediniere. Capacità rappresentate in forma astratta. La classe identifica il progetto, non una singola nave.",
+      "variant": "",
+      "navalClass": "Classe Arleigh Burke"
+    },
+    "game": {
+      "price": 125,
+      "power": 47,
+      "maintenance": 0.462,
+      "deliverySeconds": 36,
+      "effectiveness": 55,
+      "resistance": 65,
+      "mobility": 40,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.navy.mil/Resources/Fact-Files/Display-FactFiles/Article/2169871/destroyers-ddg-51/destroyers-ddg-51/",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/airsea-burke.webp",
+      "thumbnail": "/photos/airsea-burke-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:USS_Arleigh_Burke_(DDG_51)_steams_through_the_Mediterranean_Sea.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/93/USS_Arleigh_Burke_%28DDG_51%29_steams_through_the_Mediterranean_Sea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "U.S. Navy photo by Journalist 2nd Class Patrick Reilly",
+      "license": "Pubblico dominio",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov",
+      "attribution": "U.S. Navy photo by Journalist 2nd Class Patrick Reilly / pubblico dominio",
+      "identifiedAs": "030313-N-0115R-077 The Mediterranean Sea (Mar. 13, 2003) -- The guided missile destroyer USS Arleigh Burke (DDG 51) steams through the Mediterranean Sea. Arleigh Burke is currently deployed in the Mediterranean Sea conducting missions in support of Operation Enduring Freedom. U.S. Navy photo by Journalist 2nd Class Patrick Reilly. (RELEASED)",
+      "checkedAt": "2026-10-30",
+      "description": "030313-N-0115R-077 The Mediterranean Sea (Mar. 13, 2003) -- The guided missile destroyer USS Arleigh Burke (DDG 51) steams through the Mediterranean Sea. Arleigh Burke is currently deployed in the Mediterranean Sea conducting missions in support of Operation Enduring Freedom. U.S. Navy photo by Journalist 2nd Class Patrick Reilly. (RELEASED)",
+      "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio aggiunto o alterazione del soggetto.",
+      "sourceTitle": "File:USS Arleigh Burke (DDG 51) steams through the Mediterranean Sea.jpg",
+      "verification": "Identificazione e licenza verificate nei metadati Commons; fotografia controllata visivamente il 30 ottobre 2026.",
+      "illustrative": false
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "fremm",
+    "group": "naval",
+    "identity": {
+      "name": "Classe Bergamini (FREMM)",
+      "origin": "Italia / Francia (programma FREMM)",
+      "manufacturer": "Fincantieri",
+      "role": "Fregata multiruolo",
+      "description": "Fregata multiruolo. Capacità rappresentate in forma astratta. La classe identifica il progetto, non una singola nave.",
+      "variant": "",
+      "navalClass": "Classe Bergamini (FREMM)"
+    },
+    "game": {
+      "price": 140,
+      "power": 50,
+      "maintenance": 0.48,
+      "deliverySeconds": 30,
+      "effectiveness": 82,
+      "resistance": 80,
+      "mobility": 55,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.fincantieri.com/en/business/products/naval-vessels/frigates",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/airsea-fremm.webp",
+      "thumbnail": "/photos/airsea-fremm-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Nave_Bergamini_3.JPG",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/54/Nave_Bergamini_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Fabius1975",
+      "license": "Pubblico dominio",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-self",
+      "attribution": "Fabius1975 / pubblico dominio",
+      "identifiedAs": "Prima uscita in mare di Nave Bergamini (2011)",
+      "checkedAt": "2026-10-30",
+      "description": "Prima uscita in mare di Nave Bergamini (2011)",
+      "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio aggiunto o alterazione del soggetto.",
+      "sourceTitle": "File:Nave Bergamini 3.JPG",
+      "verification": "Identificazione e licenza verificate nei metadati Commons; fotografia controllata visivamente il 30 ottobre 2026.",
+      "illustrative": false
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "type26",
+    "group": "naval",
+    "identity": {
+      "name": "Classe City (Type 26)",
+      "origin": "Regno Unito",
+      "manufacturer": "BAE Systems",
+      "role": "Fregata antisommergibile",
+      "description": "Fregata antisommergibile. Capacità rappresentate in forma astratta. La classe identifica il progetto, non una singola nave. Programma in costruzione: non presentato come già operativo.",
+      "variant": "",
+      "navalClass": "Classe City (Type 26)"
+    },
+    "game": {
+      "price": 135,
+      "power": 49,
+      "maintenance": 0.474,
+      "deliverySeconds": 32,
+      "effectiveness": 65,
+      "resistance": 73,
+      "mobility": 48,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://des.mod.uk/what-we-do/navy-procurement-support/type-26-frigate/",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/airsea-type26.webp",
+      "thumbnail": "/photos/airsea-type26-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:HMS_Glasgow_(52567292390).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b5/HMS_Glasgow_%2852567292390%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Ian Dick  from Glasgow, UK",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "attribution": "Ian Dick  from Glasgow, UK / CC BY 2.0",
+      "identifiedAs": "HMS Glasgow preparing to leave Govan for the first time, rolled onto the Malin Augstea  semi-submersible   launch barge  CD01, to be towed down river to the Firth of Clyde and up Loch Long to the  Glen Mallan jetty  for its launch using the \"float off\" method.",
+      "checkedAt": "2026-10-30",
+      "description": "HMS Glasgow preparing to leave Govan for the first time, rolled onto the Malin Augstea  semi-submersible   launch barge  CD01, to be towed down river to the Firth of Clyde and up Loch Long to the  Glen Mallan jetty  for its launch using the \"float off\" method.",
+      "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio aggiunto o alterazione del soggetto.",
+      "sourceTitle": "File:HMS Glasgow (52567292390).jpg",
+      "verification": "Identificazione e licenza verificate nei metadati Commons; fotografia controllata visivamente il 30 ottobre 2026.",
+      "illustrative": false
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "queen",
+    "group": "naval",
+    "identity": {
+      "name": "Classe Queen Elizabeth",
+      "origin": "Regno Unito",
+      "manufacturer": "Aircraft Carrier Alliance",
+      "role": "Portaerei",
+      "description": "Portaerei. Capacità rappresentate in forma astratta. La classe identifica il progetto, non una singola nave.",
+      "variant": "",
+      "navalClass": "Classe Queen Elizabeth"
+    },
+    "game": {
+      "price": 140,
+      "power": 50,
+      "maintenance": 0.48,
+      "deliverySeconds": 30,
+      "effectiveness": 70,
+      "resistance": 77,
+      "mobility": 52,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.gov.uk/government/news/testing-begins-for-royal-navys-next-generation-electronic-warfare-system",
+      "checkedAt": "2026-10-30",
+      "status": "verifica parziale",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": [
+        "Conferma puntuale di produttore, origine e configurazione"
+      ]
+    },
+    "photo": {
+      "src": "/photos/airsea-queen.webp",
+      "thumbnail": "/photos/airsea-queen-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:HMS_Queen_Elizabeth_(R08).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/78/HMS_Queen_Elizabeth_%28R08%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Nick Goodrum",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "attribution": "Nick Goodrum / CC BY 2.0",
+      "identifiedAs": "HMS  Queen Elizabeth  docked in Portsmouth, England.",
+      "checkedAt": "2026-10-30",
+      "description": "HMS  Queen Elizabeth  docked in Portsmouth, England.",
+      "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio aggiunto o alterazione del soggetto.",
+      "sourceTitle": "File:HMS Queen Elizabeth (R08).jpg",
+      "verification": "Identificazione e licenza verificate nei metadati Commons; fotografia controllata visivamente il 30 ottobre 2026.",
+      "illustrative": false
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "type212",
+    "group": "naval",
+    "identity": {
+      "name": "Type 212A",
+      "origin": "Germania / Italia",
+      "manufacturer": "TKMS / Fincantieri",
+      "role": "Sottomarino",
+      "description": "Sottomarino. Capacità rappresentate in forma astratta. La classe identifica il progetto, non una singola nave.",
+      "variant": "",
+      "navalClass": "Type 212A"
+    },
+    "game": {
+      "price": 145,
+      "power": 51,
+      "maintenance": 0.486,
+      "deliverySeconds": 32,
+      "effectiveness": 75,
+      "resistance": 81,
+      "mobility": 56,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.fincantieri.com/it/business/prodotti/navi-per-la-difesa/sommergibili/u212a-todaro-class",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/airsea-type212.webp",
+      "thumbnail": "/photos/airsea-type212-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:2019-05-02_-_U31-S181_in_der_Eckernf%C3%B6rder_Bucht.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e9/2019-05-02_-_U31-S181_in_der_Eckernf%C3%B6rder_Bucht.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Fabian Horst",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Fabian Horst / CC BY-SA 4.0",
+      "identifiedAs": "U31 (S181) im aufgetauchtem Zustand in Fahrt durch die Eckernförder Bucht.",
+      "checkedAt": "2026-10-30",
+      "description": "U31 (S181) im aufgetauchtem Zustand in Fahrt durch die Eckernförder Bucht.",
+      "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio aggiunto o alterazione del soggetto.",
+      "sourceTitle": "File:2019-05-02 - U31-S181 in der Eckernförder Bucht.jpg",
+      "verification": "Identificazione e licenza verificate nei metadati Commons; fotografia controllata visivamente il 30 ottobre 2026.",
+      "illustrative": false
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "horizon",
+    "group": "naval",
+    "identity": {
+      "name": "Classe Horizon / Orizzonte",
+      "origin": "Francia / Italia",
+      "manufacturer": "Naval Group / Fincantieri",
+      "role": "Difesa aerea",
+      "description": "Difesa aerea. Capacità rappresentate in forma astratta. La classe identifica il progetto, non una singola nave.",
+      "variant": "",
+      "navalClass": "Classe Horizon / Orizzonte"
+    },
+    "game": {
+      "price": 150,
+      "power": 52,
+      "maintenance": 0.492,
+      "deliverySeconds": 34,
+      "effectiveness": 80,
+      "resistance": 85,
+      "mobility": 60,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.fincantieri.com/en/newsroom/press-releases/2023/naviris-moves-forward-on-the-mid-life-upgrade-of-the-horizon-frigates",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/airsea-horizon.webp",
+      "thumbnail": "/photos/airsea-horizon-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:160615-N-KK394-194_(Cropped).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0c/160615-N-KK394-194_%28Cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "U.S. Navy photo by Mass Communication Specialist 3rd Class Anderson W. Branch",
+      "license": "Pubblico dominio",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov",
+      "attribution": "U.S. Navy photo by Mass Communication Specialist 3rd Class Anderson W. Branch / pubblico dominio",
+      "identifiedAs": "160615-N-KK394-194\nMEDITERRANEAN SEA (June 15, 2016) - The Italian destroyer ITS Andrea Doria (D553). (U.S. Navy photo by Mass Communication Specialist 3rd Class Anderson W. Branch/Released)",
+      "checkedAt": "2026-10-30",
+      "description": "160615-N-KK394-194\nMEDITERRANEAN SEA (June 15, 2016) - The Italian destroyer ITS Andrea Doria (D553). (U.S. Navy photo by Mass Communication Specialist 3rd Class Anderson W. Branch/Released)",
+      "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio aggiunto o alterazione del soggetto. La fonte Commons è già un ritaglio fotografico; la nave rimane interamente visibile.",
+      "sourceTitle": "File:160615-N-KK394-194 (Cropped).jpg",
+      "verification": "Identificazione e licenza verificate nei metadati Commons; fotografia controllata visivamente il 30 ottobre 2026.",
+      "illustrative": false
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "type45",
+    "group": "naval",
+    "identity": {
+      "name": "Classe Daring (Type 45)",
+      "origin": "Regno Unito",
+      "manufacturer": "BAE Systems / VT",
+      "role": "Cacciatorpediniere",
+      "description": "Cacciatorpediniere. Capacità rappresentate in forma astratta. La classe identifica il progetto, non una singola nave.",
+      "variant": "",
+      "navalClass": "Classe Daring (Type 45)"
+    },
+    "game": {
+      "price": 155,
+      "power": 53,
+      "maintenance": 0.498,
+      "deliverySeconds": 36,
+      "effectiveness": 85,
+      "resistance": 65,
+      "mobility": 64,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.gov.uk/government/news/testing-begins-for-royal-navys-next-generation-electronic-warfare-system",
+      "checkedAt": "2026-10-30",
+      "status": "verifica parziale",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": [
+        "Conferma puntuale di produttore, origine e configurazione"
+      ]
+    },
+    "photo": {
+      "src": "/photos/extra-type45.webp",
+      "thumbnail": "/photos/extra-type45-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:120416-N-PK218-028_Royal_Navy_destroyer_HMS_Daring_(D_32).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/98/120416-N-PK218-028_Royal_Navy_destroyer_HMS_Daring_%28D_32%29.jpg",
+      "author": "MC3 Nick C. Scott / U.S. Navy",
+      "license": "Pubblico dominio — U.S. Navy",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov-Military-Navy",
+      "attribution": "MC3 Nick C. Scott / U.S. Navy / Pubblico dominio — U.S. Navy",
+      "identifiedAs": "HMS Daring (D32), cacciatorpediniere della classe Daring / Type 45, 16 aprile 2012",
+      "checkedAt": "2026-10-30",
+      "description": "HMS Daring (D32), cacciatorpediniere della classe Daring / Type 45, 16 aprile 2012",
+      "changes": "Ridimensionamento e conversione WebP; proporzioni originali e soggetto conservati, nessun ritaglio. La derivazione fotografica mantiene la licenza indicata.",
+      "illustrative": false,
+      "status": "verified",
+      "width": 960,
+      "height": 437,
+      "endorsement": "Nessuna approvazione o affiliazione con la U.S. Navy o il Dipartimento della Difesa statunitense."
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "zumwalt",
+    "group": "naval",
+    "identity": {
+      "name": "Classe Zumwalt",
+      "origin": "Stati Uniti",
+      "manufacturer": "General Dynamics Bath Iron Works",
+      "role": "Cacciatorpediniere",
+      "description": "Cacciatorpediniere. Capacità rappresentate in forma astratta. La classe identifica il progetto, non una singola nave.",
+      "variant": "",
+      "navalClass": "Classe Zumwalt"
+    },
+    "game": {
+      "price": 125,
+      "power": 47,
+      "maintenance": 0.462,
+      "deliverySeconds": 36,
+      "effectiveness": 55,
+      "resistance": 69,
+      "mobility": 40,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.navy.mil/Resources/Fact-Files/Display-FactFiles/Article/2391800/destroyers-ddg-1000/",
+      "checkedAt": "2026-10-30",
+      "status": "verifica parziale",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": [
+        "Conferma puntuale di produttore, origine e configurazione"
+      ]
+    },
+    "photo": {
+      "src": "/photos/airsea-zumwalt.webp",
+      "thumbnail": "/photos/airsea-zumwalt-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:USS_Zumwalt_(DDG_1000).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9a/USS_Zumwalt_%28DDG_1000%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "National Museum of the U.S. Navy",
+      "license": "Pubblico dominio",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov",
+      "attribution": "National Museum of the U.S. Navy / pubblico dominio",
+      "identifiedAs": "160421-N-YE579-005.\n \nATLANTIC OCEAN (April 21, 2016) The future guided-missile destroyer USS Zumwalt (DDG 1000) transits the Atlantic Ocean during acceptance trials April 21, 2016 with the Navy's Board of Inspection and Survey (INSURV). The U.S. Navy accepted delivery of DDG 1000, the future guided-missile destroyer USS Zumwalt (DDG 1000) May 20, 2016. Following a crew certification period and October commissioning ceremony in Baltimore, Zumwalt will transit to its homeport in San Diego for a Post Delivery Availability and Mission Systems Activation. DDG 1000 is the lead ship of the Zumwalt-class destroyers, next-generation, multi-mission surface combatants, tailored for land attack and littoral dominance. (U.S. Navy/Released)",
+      "checkedAt": "2026-10-30",
+      "description": "160421-N-YE579-005.\n \nATLANTIC OCEAN (April 21, 2016) The future guided-missile destroyer USS Zumwalt (DDG 1000) transits the Atlantic Ocean during acceptance trials April 21, 2016 with the Navy's Board of Inspection and Survey (INSURV). The U.S. Navy accepted delivery of DDG 1000, the future guided-missile destroyer USS Zumwalt (DDG 1000) May 20, 2016. Following a crew certification period and October commissioning ceremony in Baltimore, Zumwalt will transit to its homeport in San Diego for a Post Delivery Availability and Mission Systems Activation. DDG 1000 is the lead ship of the Zumwalt-class destroyers, next-generation, multi-mission surface combatants, tailored for land attack and littoral dominance. (U.S. Navy/Released)",
+      "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio aggiunto o alterazione del soggetto.",
+      "sourceTitle": "File:USS Zumwalt (DDG 1000).jpg",
+      "verification": "Identificazione e licenza verificate nei metadati Commons; fotografia controllata visivamente il 30 ottobre 2026.",
+      "illustrative": false
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "virginia",
+    "group": "naval",
+    "identity": {
+      "name": "Classe Virginia",
+      "origin": "Stati Uniti",
+      "manufacturer": "General Dynamics Electric Boat / HII Newport News",
+      "role": "Sottomarino",
+      "description": "Sottomarino. Capacità rappresentate in forma astratta. La classe identifica il progetto, non una singola nave.",
+      "variant": "",
+      "navalClass": "Classe Virginia"
+    },
+    "game": {
+      "price": 130,
+      "power": 48,
+      "maintenance": 0.468,
+      "deliverySeconds": 34,
+      "effectiveness": 60,
+      "resistance": 73,
+      "mobility": 44,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.dvidshub.net/news/498579/nuwc-division-newport-hosts-commander-submarine-group-7-tours-briefings-may-2",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/airsea-virginia.webp",
+      "thumbnail": "/photos/airsea-virginia-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:US_Navy_100107-N-8288P-033_USS_Virginia_(SSN_774)_cruises_through_the_Bay_of_Naples.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d3/US_Navy_100107-N-8288P-033_USS_Virginia_%28SSN_774%29_cruises_through_the_Bay_of_Naples.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "U.S. Navy photo by Mass Communication Specialist 2nd Class William Pittman",
+      "license": "Pubblico dominio",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov",
+      "attribution": "U.S. Navy photo by Mass Communication Specialist 2nd Class William Pittman / pubblico dominio",
+      "identifiedAs": "MEDITERRANEAN SEA (Jan. 7, 2010) The Virginia-class fast attack submarine USS Virginia (SSN 774) cruises through the Bay of Naples while on a scheduled deployment in the U.S. 6th Fleet area of responsibility. (U.S. Navy photo by Mass Communication Specialist 2nd Class William Pittman/Released)",
+      "checkedAt": "2026-10-30",
+      "description": "MEDITERRANEAN SEA (Jan. 7, 2010) The Virginia-class fast attack submarine USS Virginia (SSN 774) cruises through the Bay of Naples while on a scheduled deployment in the U.S. 6th Fleet area of responsibility. (U.S. Navy photo by Mass Communication Specialist 2nd Class William Pittman/Released)",
+      "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio aggiunto o alterazione del soggetto.",
+      "sourceTitle": "File:US Navy 100107-N-8288P-033 USS Virginia (SSN 774) cruises through the Bay of Naples.jpg",
+      "verification": "Identificazione e licenza verificate nei metadati Commons; fotografia controllata visivamente il 30 ottobre 2026.",
+      "illustrative": false
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "ohio",
+    "group": "naval",
+    "identity": {
+      "name": "Classe Ohio (SSGN)",
+      "origin": "Stati Uniti",
+      "manufacturer": "General Dynamics Electric Boat",
+      "role": "Sottomarino",
+      "description": "Sottomarino. Capacità rappresentate in forma astratta. La classe identifica il progetto, non una singola nave.",
+      "variant": "SSGN",
+      "navalClass": "Classe Ohio (SSGN)"
+    },
+    "game": {
+      "price": 135,
+      "power": 49,
+      "maintenance": 0.474,
+      "deliverySeconds": 32,
+      "effectiveness": 65,
+      "resistance": 77,
+      "mobility": 48,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.navy.mil/Resources/Fact-Files/Display-FactFiles/Article/2169613/guided-missile-submarines-ssgn/",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/extra-ohio.webp",
+      "thumbnail": "/photos/extra-ohio-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:USS_Ohio_(SSGN_726).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/fe/USS_Ohio_%28SSGN_726%29.jpg",
+      "author": "MC2 Clifford L. H. Davis / U.S. Navy",
+      "license": "Pubblico dominio — U.S. Navy",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov-Military-Navy",
+      "attribution": "MC2 Clifford L. H. Davis / U.S. Navy / Pubblico dominio — U.S. Navy",
+      "identifiedAs": "USS Ohio (SSGN-726), classe Ohio convertita a sottomarino lanciamissili guidati; fotografia del 19 novembre 2008, successiva alla conversione SSGN",
+      "checkedAt": "2026-10-30",
+      "description": "USS Ohio (SSGN-726), classe Ohio convertita a sottomarino lanciamissili guidati; fotografia del 19 novembre 2008, successiva alla conversione SSGN",
+      "changes": "Ridimensionamento e conversione WebP; proporzioni originali e soggetto conservati, nessun ritaglio. La derivazione fotografica mantiene la licenza indicata.",
+      "illustrative": false,
+      "status": "verified",
+      "width": 960,
+      "height": 686,
+      "endorsement": "Nessuna approvazione o affiliazione con la U.S. Navy o il Dipartimento della Difesa statunitense."
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "nimitz",
+    "group": "naval",
+    "identity": {
+      "name": "Classe Nimitz",
+      "origin": "Stati Uniti",
+      "manufacturer": "Newport News Shipbuilding",
+      "role": "Portaerei",
+      "description": "Portaerei. Capacità rappresentate in forma astratta. La classe identifica il progetto, non una singola nave.",
+      "variant": "",
+      "navalClass": "Classe Nimitz"
+    },
+    "game": {
+      "price": 140,
+      "power": 50,
+      "maintenance": 0.48,
+      "deliverySeconds": 30,
+      "effectiveness": 70,
+      "resistance": 81,
+      "mobility": 52,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.history.navy.mil/news-and-events/news/2022/nhm-040522.html",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/airsea-nimitz.webp",
+      "thumbnail": "/photos/airsea-nimitz-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:USS_Nimitz_(CVN-68).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2d/USS_Nimitz_%28CVN-68%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "United States Navy",
+      "license": "Pubblico dominio",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov",
+      "attribution": "United States Navy / pubblico dominio",
+      "identifiedAs": "The aircraft carrier USS Nimitz (CVN 68) and embarked Carrier Air Wing (CVW) 11 transits into San Diego prior to mooring at Naval Air Station North Island. Nimitz is preparing for a 2009 regularly scheduled Western Pacific Deployment.",
+      "checkedAt": "2026-10-30",
+      "description": "The aircraft carrier USS Nimitz (CVN 68) and embarked Carrier Air Wing (CVW) 11 transits into San Diego prior to mooring at Naval Air Station North Island. Nimitz is preparing for a 2009 regularly scheduled Western Pacific Deployment.",
+      "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio aggiunto o alterazione del soggetto.",
+      "sourceTitle": "File:USS Nimitz (CVN-68).jpg",
+      "verification": "Identificazione e licenza verificate nei metadati Commons; fotografia controllata visivamente il 30 ottobre 2026.",
+      "illustrative": false
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "ford",
+    "group": "naval",
+    "identity": {
+      "name": "Classe Gerald R. Ford",
+      "origin": "Stati Uniti",
+      "manufacturer": "HII Newport News Shipbuilding",
+      "role": "Portaerei",
+      "description": "Portaerei. Capacità rappresentate in forma astratta. La classe identifica il progetto, non una singola nave.",
+      "variant": "",
+      "navalClass": "Classe Gerald R. Ford"
+    },
+    "game": {
+      "price": 145,
+      "power": 51,
+      "maintenance": 0.486,
+      "deliverySeconds": 32,
+      "effectiveness": 75,
+      "resistance": 85,
+      "mobility": 56,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.history.navy.mil/news-and-events/news/2022/nhm-040522.html",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/extra-ford.webp",
+      "thumbnail": "/photos/extra-ford-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:USS_Gerald_R._Ford_(CVN-78)_underway_on_8_April_2017.JPG",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b2/USS_Gerald_R._Ford_%28CVN-78%29_underway_on_8_April_2017.JPG",
+      "author": "MC2 Ridge Leoni / U.S. Navy",
+      "license": "Pubblico dominio — U.S. Navy",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov-Military-Navy",
+      "attribution": "MC2 Ridge Leoni / U.S. Navy / Pubblico dominio — U.S. Navy",
+      "identifiedAs": "USS Gerald R. Ford (CVN-78), prima unità della classe Gerald R. Ford, in navigazione l’8 aprile 2017",
+      "checkedAt": "2026-10-30",
+      "description": "USS Gerald R. Ford (CVN-78), prima unità della classe Gerald R. Ford, in navigazione l’8 aprile 2017",
+      "changes": "Ridimensionamento e conversione WebP; proporzioni originali e soggetto conservati, nessun ritaglio. La derivazione fotografica mantiene la licenza indicata.",
+      "illustrative": false,
+      "status": "verified",
+      "width": 960,
+      "height": 540,
+      "endorsement": "Nessuna approvazione o affiliazione con la U.S. Navy o il Dipartimento della Difesa statunitense.",
+      "sourceChanges": "La versione su Commons riporta un precedente miglioramento della chiarezza da FOX 52."
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "lafayette",
+    "group": "naval",
+    "identity": {
+      "name": "Classe La Fayette",
+      "origin": "Francia",
+      "manufacturer": "DCN / Naval Group",
+      "role": "Fregata",
+      "description": "Fregata. Capacità rappresentate in forma astratta. La classe identifica il progetto, non una singola nave.",
+      "variant": "",
+      "navalClass": "Classe La Fayette"
+    },
+    "game": {
+      "price": 150,
+      "power": 52,
+      "maintenance": 0.492,
+      "deliverySeconds": 34,
+      "effectiveness": 80,
+      "resistance": 65,
+      "mobility": 60,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.operationirini.eu/wp-content/uploads/2024/10/factsheet-FRA-LA-FAYETTE-1.pdf",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/extra-lafayette.webp",
+      "thumbnail": "/photos/extra-lafayette-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:French_frigate_La_Fayette_(F-710).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/01/French_frigate_La_Fayette_%28F-710%29.jpg",
+      "author": "MC3 Ricardo J. Reyes / U.S. Navy",
+      "license": "Pubblico dominio — U.S. Navy",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov-Military-Navy",
+      "attribution": "MC3 Ricardo J. Reyes / U.S. Navy / Pubblico dominio — U.S. Navy",
+      "identifiedAs": "Fregata francese La Fayette (F710), esemplare della classe La Fayette, 4 luglio 2007",
+      "checkedAt": "2026-10-30",
+      "description": "Fregata francese La Fayette (F710), esemplare della classe La Fayette, 4 luglio 2007",
+      "changes": "Ridimensionamento e conversione WebP; proporzioni originali e soggetto conservati, nessun ritaglio. La derivazione fotografica mantiene la licenza indicata.",
+      "illustrative": false,
+      "status": "verified",
+      "width": 960,
+      "height": 674,
+      "endorsement": "Nessuna approvazione o affiliazione con la U.S. Navy o il Dipartimento della Difesa statunitense."
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "visby",
+    "group": "naval",
+    "identity": {
+      "name": "Classe Visby",
+      "origin": "Svezia",
+      "manufacturer": "Saab Kockums",
+      "role": "Corvetta",
+      "description": "Corvetta. Capacità rappresentate in forma astratta. La classe identifica il progetto, non una singola nave.",
+      "variant": "",
+      "navalClass": "Classe Visby"
+    },
+    "game": {
+      "price": 155,
+      "power": 53,
+      "maintenance": 0.498,
+      "deliverySeconds": 36,
+      "effectiveness": 85,
+      "resistance": 69,
+      "mobility": 64,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.saab.com/products/visby-class-corvette",
+      "checkedAt": "2026-10-30",
+      "status": "nome e ruolo documentati",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/extra-visby.webp",
+      "thumbnail": "/photos/extra-visby-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:K31_HSwMS_Visby_(8644182258).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/3f/K31_HSwMS_Visby_%288644182258%29.jpg",
+      "author": "Mark Harkin",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "attribution": "Mark Harkin / CC BY 2.0",
+      "identifiedAs": "HSwMS Visby (K31), corvetta della classe Visby della Marina svedese, 12 aprile 2013",
+      "checkedAt": "2026-10-30",
+      "description": "HSwMS Visby (K31), corvetta della classe Visby della Marina svedese, 12 aprile 2013",
+      "changes": "Ridimensionamento e conversione WebP; proporzioni originali e soggetto conservati, nessun ritaglio. La derivazione fotografica mantiene la licenza indicata.",
+      "illustrative": false,
+      "status": "verified",
+      "width": 960,
+      "height": 640
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "scorpene",
+    "group": "naval",
+    "identity": {
+      "name": "Scorpène",
+      "origin": "Francia / Spagna (progetto originale)",
+      "manufacturer": "Naval Group / Navantia",
+      "role": "Sottomarino",
+      "description": "Sottomarino. Capacità rappresentate in forma astratta. La classe identifica il progetto, non una singola nave.",
+      "variant": "",
+      "navalClass": "Scorpène"
+    },
+    "game": {
+      "price": 125,
+      "power": 47,
+      "maintenance": 0.462,
+      "deliverySeconds": 36,
+      "effectiveness": 55,
+      "resistance": 73,
+      "mobility": 40,
+      "fictional": true
+    },
+    "provenance": {
+      "url": "https://www.naval-group.com/en/news?field_typology_eref%5B33%5D=33&field_typology_eref%5B34%5D=34&field_typology_eref%5B36%5D=36&page=3",
+      "checkedAt": "2026-10-30",
+      "status": "verifica parziale",
+      "scope": "Identificazione e ruolo; valori numerici esclusivamente di gioco.",
+      "pendingFields": [
+        "Conferma puntuale di produttore, origine e configurazione"
+      ]
+    },
+    "photo": {
+      "src": "/photos/extra-scorpene.webp",
+      "thumbnail": "/photos/extra-scorpene-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Chilean_Submarine_Scorpène_Class.JPG",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Chilean_Submarine_Scorp%C3%A8ne_Class.JPG",
+      "author": "Florian Wöhrl",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Florian Wöhrl / CC BY-SA 3.0",
+      "identifiedAs": "Sottomarino cileno della classe Scorpène presso Valparaíso, 31 marzo 2014; nome individuale non determinato dalla fonte",
+      "checkedAt": "2026-10-30",
+      "description": "Sottomarino cileno della classe Scorpène presso Valparaíso, 31 marzo 2014; nome individuale non determinato dalla fonte",
+      "changes": "Ridimensionamento e conversione WebP; proporzioni originali e soggetto conservati, nessun ritaglio. La derivazione fotografica mantiene la licenza indicata.",
+      "illustrative": false,
+      "status": "verified",
+      "width": 960,
+      "height": 640
+    },
+    "photoStatus": "Fotografia verificata"
+  },
+  {
+    "id": "b2",
+    "group": "air",
+    "subcategory": "Bombardieri strategici",
+    "identity": {
+      "name": "B-2 Spirit",
+      "origin": "Stati Uniti",
+      "manufacturer": "Northrop Grumman",
+      "role": "Bombardiere strategico stealth",
+      "description": "Bombardiere pesante a bassa osservabilità. Nel gioco la furtività riduce in parte le perdite delle operazioni, senza rendere le forze invisibili o invulnerabili. Acquisto riservato a economie avanzate.",
+      "variant": "B-2",
+      "navalClass": null
+    },
+    "game": {
+      "price": 20000,
+      "indicativeCredits": 2000000000,
+      "maintenance": 12.5,
+      "deliverySeconds": 600,
+      "power": 95,
+      "effectiveness": 90,
+      "resistance": 65,
+      "mobility": 60,
+      "stealth": 95,
+      "offensiveSupport": 0.1,
+      "fictional": true
+    },
+    "requirements": {
+      "researchLevel": 6,
+      "label": "Ricerca aeronautica avanzata"
+    },
+    "provenance": {
+      "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104482/b-2-spirit/",
+      "checkedAt": "2026-10-30",
+      "status": "nome, produttore, ruolo e bassa osservabilità documentati",
+      "scope": "Identità, produttore e bassa osservabilità dalla scheda ufficiale USAF. Le statistiche stealth e gli effetti della simulazione sono valori astratti di gioco, non prestazioni reali.",
+      "pendingFields": []
+    },
+    "photo": {
+      "src": "/photos/strategic-b2.webp",
+      "thumbnail": "/photos/strategic-b2-thumb.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:B-2_Spirit_original.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/47/B-2_Spirit_original.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "U.S. Air Force photo/Staff Sgt. Bennie J. Davis III",
+      "license": "Pubblico dominio — opera del governo federale USA",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov-Military-Air_Force",
+      "attribution": "Staff Sgt. Bennie J. Davis III / U.S. Air Force",
+      "identifiedAs": "Northrop Grumman B-2 Spirit del 509th Bomb Wing, in volo sul Pacifico, 30 maggio 2006",
+      "checkedAt": "2026-10-30",
+      "description": "A Northrop Grumman B-2 Spirit soars after a refueling mission over the Pacific Ocean on Tuesday, May 30, 2006. The B-2, from the 509th Bomb Wing at Whiteman Air Force Base, Mo., is part of a continuous bomber presence in the Asia-Pacific region.",
+      "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio o alterazione del soggetto.",
+      "illustrative": false,
+      "endorsement": "Nessuna approvazione o affiliazione del Dipartimento della Difesa statunitense.",
+      "verification": "Variante/modello indicato nella didascalia istituzionale; metadati Commons PD-USGov e fotografia controllati visivamente il 30 ottobre 2026."
+    },
+    "photoStatus": "Fotografia verificata"
+  }
+]

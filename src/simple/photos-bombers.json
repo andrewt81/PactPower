@@ -1,0 +1,36 @@
+{
+  "b2": {
+    "src": "/photos/strategic-b2.webp",
+    "thumbnail": "/photos/strategic-b2-thumb.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:B-2_Spirit_original.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/47/B-2_Spirit_original.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "U.S. Air Force photo/Staff Sgt. Bennie J. Davis III",
+    "license": "Pubblico dominio — opera del governo federale USA",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov-Military-Air_Force",
+    "attribution": "Staff Sgt. Bennie J. Davis III / U.S. Air Force",
+    "identifiedAs": "Northrop Grumman B-2 Spirit del 509th Bomb Wing, in volo sul Pacifico, 30 maggio 2006",
+    "checkedAt": "2026-10-30",
+    "description": "A Northrop Grumman B-2 Spirit soars after a refueling mission over the Pacific Ocean on Tuesday, May 30, 2006. The B-2, from the 509th Bomb Wing at Whiteman Air Force Base, Mo., is part of a continuous bomber presence in the Asia-Pacific region.",
+    "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio o alterazione del soggetto.",
+    "illustrative": false,
+    "endorsement": "Nessuna approvazione o affiliazione del Dipartimento della Difesa statunitense.",
+    "verification": "Variante/modello indicato nella didascalia istituzionale; metadati Commons PD-USGov e fotografia controllati visivamente il 30 ottobre 2026."
+  },
+  "b52": {
+    "src": "/photos/strategic-b52.webp",
+    "thumbnail": "/photos/strategic-b52-thumb.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:B-52H_Stratofortress_60-0024_Oct._14,_2019.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/e1/B-52H_Stratofortress_60-0024_Oct._14%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Senior Airman Stuart Bright",
+    "license": "Pubblico dominio — opera del governo federale USA",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov-Military-Air_Force",
+    "attribution": "Senior Airman Stuart Bright / U.S. Air Force",
+    "identifiedAs": "B-52H Stratofortress, matricola 60-0024, RAF Fairford, 14 ottobre 2019",
+    "checkedAt": "2026-10-30",
+    "description": "A B-52H Stratofortress, deployed from Barksdale Air Force Base, La., takes off from RAF Fairford, United Kingdom, Oct. 14, 2019. The B-52s and Airmen from the 2nd Bomb Wing deployed to improve interoperability with the United States’ joint partners and allied nations and to conduct European theater integration. (U.S. Air Force photo by Senior Airman Stuart Bright)",
+    "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio o alterazione del soggetto.",
+    "illustrative": false,
+    "endorsement": "Nessuna approvazione o affiliazione del Dipartimento della Difesa statunitense.",
+    "verification": "Variante/modello indicato nella didascalia istituzionale; metadati Commons PD-USGov e fotografia controllati visivamente il 30 ottobre 2026."
+  }
+}

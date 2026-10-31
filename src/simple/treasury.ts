@@ -1,0 +1,3 @@
+import type{SimpleState}from './engine';
+export interface TreasuryDebit{id:string;at:number;amount:number;reason:'purchase'|'spy';item:string}
+export function debit(s:SimpleState,id:string,amount:number,reason:TreasuryDebit['reason'],item:string){if(!Number.isFinite(amount)||amount<0)throw Error('Importo non valido.');s.debits??=[];if(s.debits.some(d=>d.id===id))return;if(s.money<amount)throw Error(reason==='spy'?'Denaro insufficiente: inviare una spia richiede 25 crediti.':'Denaro insufficiente per questo acquisto.');if(amount){s.money-=amount;s.debits.push({id,at:s.now,amount,reason,item});}}

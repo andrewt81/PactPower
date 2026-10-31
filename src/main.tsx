@@ -1,0 +1,3 @@
+import React,{useState}from'react';import{createRoot}from'react-dom/client';import Boot from'./Boot';import{LocaleProvider,LanguageSelector,useLocale}from'./i18n/Locale';import'./styles.css';import'./simple/style.css';import'./boot.css';
+function Shell(){const[online,setOnline]=useState(false);const{t}=useLocale();return <><Boot online={online}>{Component=><><button style={{position:'fixed',bottom:58,left:8,zIndex:50}} onClick={()=>setOnline(!online)}>{t(online?'single':'multiplayer')}</button><Component/></>}</Boot></>}
+createRoot(document.getElementById('root')!).render(<React.StrictMode><LocaleProvider><Shell/></LocaleProvider></React.StrictMode>);

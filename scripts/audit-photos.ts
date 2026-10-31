@@ -1,0 +1,15 @@
+import fs from'node:fs';import{GAME_OBJECTS}from'../src/simple/objects';
+const checkedAt='2026-10-30';
+const missingReasons:Record<string,{reason:string;reviewedSources?:string[]}>={};
+for(const name of fs.readdirSync('docs').filter(n=>/^PHOTO-.*-PENDING\.json$/.test(n)||n==='ORDNANCE-PHOTOS-PENDING.json')){const report=JSON.parse(fs.readFileSync('docs/'+name,'utf8'));for(const row of report.missing||[])missingReasons[row.id]=row}
+const rows=GAME_OBJECTS.map(o=>({id:o.id,name:o.name,category:o.group,abstract:o.abstract,status:o.photo?'documentata':'Foto non disponibile',photo:o.photo||null,missingReason:o.photo?null:missingReasons[o.id]?.reason||'Nessuna fotografia esatta con licenza compatibile ancora verificata.'}));
+const report={checkedAt,total:rows.length,documented:rows.filter(o=>o.photo).length,missing:rows.filter(o=>!o.photo).map(({id,name,category,missingReason})=>({id,name,category,reason:missingReason})),unimplemented:['Auto ufficiali','Elicotteri','Equipaggiamenti individuali della polizia'],objects:rows};
+fs.writeFileSync('public/data/photo-audit.json',JSON.stringify(report,null,2));
+fs.writeFileSync('src/simple/photo-gaps.json',JSON.stringify(Object.fromEntries(report.missing.map(o=>[o.id,o.reason])),null,2));
+let md=`# Fotografie del gioco\n\nVerifica ${checkedAt}. **${report.documented}/${report.total} elementi con fotografia documentata; ${report.missing.length} da completare.** Non è una dichiarazione di completamento finché esistono mancanze.\n\nLe foto illustrative dei potenziamenti astratti e delle residenze generiche non identificano beni reali posseduti. Le classi navali sono rappresentate da un esemplare della classe, con nome individuale nei crediti. Nessuna immagine generata viene usata.\n\n## Elementi da completare\n\n`;
+md+=report.missing.map(o=>`- **${o.name}**: ${o.reason}`).join('\n')||'Nessuno.';
+md+='\n\n## Inventario completo e attribuzioni\n\n| Elemento | Categoria | Identificazione / natura | Autore e licenza | Fonte |\n|---|---|---|---|---|\n';
+const cell=(s:string)=>s.replace(/\|/g,'/').replace(/\n/g,' ');
+for(const o of rows){const p=o.photo;md+=`| ${cell(o.name)} | ${cell(o.category)} | ${p?cell((p.illustrative?'ILLUSTRATIVA: ':'')+p.identifiedAs):'Foto non disponibile'} | ${p?cell(p.author+' — '+p.license)+' ([licenza]('+p.licenseUrl+'))':'Da completare'} | ${p?'[Fonte]('+p.source+')':'—'} |\n`}
+md+='\nAuto ufficiali, elicotteri e singoli equipaggiamenti della polizia non sono attualmente implementati come oggetti acquistabili. Il sistema centralizzato include automaticamente gli elementi che saranno aggiunti al registro.\n\nOriginali distribuiti con le rispettive licenze indicate, copie WebP e miniature derivate mantengono attribuzioni e condizioni. Operazioni eseguite su ogni foto nel campo `changes` dei registri `src/simple/photos*.json`. Nessuna affiliazione o approvazione istituzionale implicata.\n';
+fs.writeFileSync('docs/PHOTOS.md',md);console.log(`${report.documented}/${report.total} photographs; missing: ${report.missing.map(o=>o.name).join(', ')}`);

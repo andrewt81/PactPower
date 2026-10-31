@@ -1,0 +1,96 @@
+{
+  "scale": {
+    "indicativeCreditsPerGameCredit": 100000,
+    "fictional": true,
+    "note": "Solo scala convenzionale per questi prezzi indicativi: non è una conversione di prezzi reali."
+  },
+  "combat": {
+    "maxOffensiveBonus": 0.18,
+    "maxLossReduction": 0.3,
+    "stealthLossReductionAt100": 0.3,
+    "individualStealthProtection": 0.5,
+    "attritionOffsets": {
+      "b52": 0.173,
+      "b2": 0.619
+    },
+    "minimumOperationFailureChance": 0.05
+  },
+  "models": [
+    {
+      "id": "b52",
+      "group": "air",
+      "subcategory": "Bombardieri strategici",
+      "identity": {
+        "name": "B-52H Stratofortress",
+        "origin": "Stati Uniti",
+        "manufacturer": "Boeing",
+        "role": "Bombardiere strategico",
+        "description": "Bombardiere pesante a lungo raggio. Nel gioco offre forte supporto offensivo, con costi elevati e bassa furtività. Richiede forze combinate per conquistare.",
+        "variant": "H",
+        "navalClass": null
+      },
+      "game": {
+        "price": 2500,
+        "indicativeCredits": 250000000,
+        "maintenance": 2.5,
+        "deliverySeconds": 180,
+        "power": 90,
+        "effectiveness": 95,
+        "resistance": 60,
+        "mobility": 40,
+        "stealth": 10,
+        "offensiveSupport": 0.18,
+        "fictional": true
+      },
+      "requirements": {
+        "researchLevel": 4,
+        "label": "Ricerca aeronautica avanzata"
+      },
+      "provenance": {
+        "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104465/b-52h-stratofortress/",
+        "checkedAt": "2026-10-30",
+        "status": "nome, variante, produttore e ruolo documentati",
+        "scope": "Identità e ruolo dalla scheda ufficiale USAF. Tutti i prezzi, requisiti, tempi, bonus e indici sono inventati per il gioco.",
+        "pendingFields": []
+      }
+    },
+    {
+      "id": "b2",
+      "group": "air",
+      "subcategory": "Bombardieri strategici",
+      "identity": {
+        "name": "B-2 Spirit",
+        "origin": "Stati Uniti",
+        "manufacturer": "Northrop Grumman",
+        "role": "Bombardiere strategico stealth",
+        "description": "Bombardiere pesante a bassa osservabilità. Nel gioco la furtività riduce in parte le perdite delle operazioni, senza rendere le forze invisibili o invulnerabili. Acquisto riservato a economie avanzate.",
+        "variant": "B-2",
+        "navalClass": null
+      },
+      "game": {
+        "price": 20000,
+        "indicativeCredits": 2000000000,
+        "maintenance": 12.5,
+        "deliverySeconds": 600,
+        "power": 95,
+        "effectiveness": 90,
+        "resistance": 65,
+        "mobility": 60,
+        "stealth": 95,
+        "offensiveSupport": 0.1,
+        "fictional": true
+      },
+      "requirements": {
+        "researchLevel": 6,
+        "label": "Ricerca aeronautica avanzata"
+      },
+      "provenance": {
+        "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104482/b-2-spirit/",
+        "checkedAt": "2026-10-30",
+        "status": "nome, produttore, ruolo e bassa osservabilità documentati",
+        "scope": "Identità, produttore e bassa osservabilità dalla scheda ufficiale USAF. Le statistiche stealth e gli effetti della simulazione sono valori astratti di gioco, non prestazioni reali.",
+        "pendingFields": []
+      }
+    }
+  ]
+}

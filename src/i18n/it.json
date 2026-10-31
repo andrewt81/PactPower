@@ -1,0 +1,15 @@
+{
+  "language": "Lingua",
+  "subtitle": "Guida una nazione. Cambia il mondo.",
+  "world": "Preparazione del mondo",
+  "save": "Caricamento della partita",
+  "server": "Connessione al server",
+  "enter": "Entra nel mondo",
+  "resume": "Riprendi il comando",
+  "retry": "Riprova",
+  "error": "Impossibile completare il caricamento. Verifica la connessione e riprova.",
+  "tip": "Una buona alleanza può valere più di un grande esercito.",
+  "single": "Torna al singolo",
+  "multiplayer": "Multiplayer",
+  "saveError": "Il salvataggio non è leggibile. Conserva una copia prima di ripristinarlo; nessun dato è stato cancellato."
+}

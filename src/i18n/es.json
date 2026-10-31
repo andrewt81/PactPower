@@ -1,0 +1,15 @@
+{
+  "language": "Idioma",
+  "subtitle": "Lidera una nación. Cambia el mundo.",
+  "world": "Preparando el mundo",
+  "save": "Cargando la partida",
+  "server": "Conectando al servidor",
+  "enter": "Entrar en el mundo",
+  "resume": "Retomar el mando",
+  "retry": "Reintentar",
+  "error": "No se pudo completar la carga. Comprueba la conexión e inténtalo de nuevo.",
+  "tip": "Una buena alianza puede valer más que un gran ejército.",
+  "single": "Volver al modo individual",
+  "multiplayer": "Multijugador",
+  "saveError": "No se pudo leer la partida guardada. Guarda una copia antes de restaurarla; no se ha eliminado ningún dato."
+}

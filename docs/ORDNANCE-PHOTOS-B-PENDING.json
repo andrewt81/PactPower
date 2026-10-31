@@ -1,0 +1,25 @@
+{
+  "checkedAt": "2026-10-30",
+  "missing": [],
+  "framingNeedsImprovement": [
+    "w-gbu31",
+    "w-gbu38",
+    "w-scalp",
+    "w-jassm",
+    "w-sampt"
+  ],
+  "rejected": [
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:NASAMS_Launcher.png",
+      "reason": "Immagine di tipo rendering, non fotografia autentica."
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:JASDF_MIM-104_PAC-3_Launcher.JPG",
+      "reason": "Didascalia PAC-2 in conflitto con titolo PAC-3."
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:GBU-31_xxl.jpg",
+      "reason": "Natura fotografica del prodotto su fondo bianco non abbastanza chiara."
+    }
+  ]
+}
